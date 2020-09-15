@@ -1,0 +1,2292 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr' xmlns:og='http://ogp.me/ns#'>
+       <head prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#'>
+
+
+<b:include data='blog' name='all-head-content'/>
+<meta expr:content='data:blog.postImageThumbnailUrl' property='og:image'/>
+
+<link href='http://www.blogger.com/feeds/blogID/posts/default/postID' rel='edit' type='application/atom+xml'/>
+
+
+<link expr:href='&quot;http://www.mrlaboratory.info/feeds/&quot; + data:blog.blogId + &quot;/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<script async='async' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'/>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: &quot;ca-pub-8671569483226902&quot;,
+          enable_page_level_ads: true
+     });
+</script>
+
+
+<meta expr:content='data:blog.url' property='og:url'/>
+<meta content='article' property='og:type'/>
+<meta expr:content='data:blog.title' property='og:title'/>
+<meta expr:content='data:blog.title' property='og:image:alt'/>
+<meta content='Youtube Secret tricks, website tricks, ethical hacking tips , and all kind of internet technology tricks are share on our website' property='og:description'/>
+
+<meta content='en_US' property='og:locale'/>
+<meta content='https://youtu.be/fBPIg-i32K4' property='og:video:secure_url'/>
+
+
+<meta content='695998387511453' property='fb:app_id'/>
+
+
+
+<meta expr:content='data:blog.blogId' itemprop='blogId'/>
+     <meta expr:content='data:blog.bloggerUrl' itemprop='blogurl'/>
+ <meta expr:content='data:blog.url' itemprop='post url'/>
+ <meta expr:content='data:blog.title' itemprop='post title'/>
+ <meta expr:content='data:blog.homepageUrl' itemprop='home page url'/>
+ <meta expr:content='data:blog.postImageThumbnailUrl' itemprop='post img thambnill'/>
+
+
+
+ <meta expr:content='data:post.authorPhoto.url' itemprop='blogurl'/>
+ <meta expr:content='data:post.authorPhoto.url' itemprop='blogurl'/>
+
+<meta expr:content='data:blog.postImageThumbnailUrl' property='og:image'/>
+
+<link href='//1.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//2.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//3.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//4.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//www.blogger.com' rel='dns-prefetch'/>
+<link href='//maxcdn.bootstrapcdn.com' rel='dns-prefetch'/>
+<link href='//fonts.googleapis.com' rel='dns-prefetch'/>
+<link href='//use.fontawesome.com' rel='dns-prefetch'/>
+<link href='//ajax.googleapis.com' rel='dns-prefetch'/>
+<link href='//resources.blogblog.com' rel='dns-prefetch'/>
+<link href='//www.facebook.com' rel='dns-prefetch'/>
+<link href='//twitter.com' rel='dns-prefetch'/>
+<link href='//www.youtube.com' rel='dns-prefetch'/>
+<link href='//feedburner.google.com' rel='dns-prefetch'/>
+<link href='//www.pinterest.com' rel='dns-prefetch'/>
+<link href='//www.linkedin.com' rel='dns-prefetch'/>
+<link href='//feeds.feedburner.com' rel='dns-prefetch'/>
+<link href='//github.com' rel='dns-prefetch'/>
+<link href='//player.vimeo.com' rel='dns-prefetch'/>
+<link href='//platform.twitter.com' rel='dns-prefetch'/>
+<link href='//apis.google.com' rel='dns-prefetch'/>
+<link href='//connect.facebook.net' rel='dns-prefetch'/>
+<link href='//cdnjs.cloudflare.com' rel='dns-prefetch'/>
+<link href='//www.google-analytics.com' rel='dns-prefetch'/>
+<link href='//pagead2.googlesyndication.com' rel='dns-prefetch'/>
+<link href='//googleads.g.doubleclick.net' rel='dns-prefetch'/>
+<link href='//www.gstatic.com' rel='preconnect'/>
+<link href='//www.googletagservices.com' rel='dns-prefetch'/>
+<link href='//static.xx.fbcdn.net' rel='dns-prefetch'/>
+<link href='//tpc.googlesyndication.com' rel='dns-prefetch'/>
+<link href='//syndication.twitter.com' rel='dns-prefetch'/>
+<link href='//i.imgur.com' rel='dns-prefetch'/>
+<link href='//cdn.staticaly.com' rel='dns-prefetch'/>
+<link href='//www.mrlaboratory.info/' rel='dns-prefetch'/>
+<link href='//1.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//2.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//3.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//4.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//www.blogger.com' rel='dns-prefetch'/>
+<link href='//maxcdn.bootstrapcdn.com' rel='dns-prefetch'/>
+<link href='//fonts.googleapis.com' rel='dns-prefetch'/>
+<link href='//use.fontawesome.com' rel='dns-prefetch'/>
+<link href='//ajax.googleapis.com' rel='dns-prefetch'/>
+<link href='//resources.blogblog.com' rel='dns-prefetch'/>
+<link href='//www.facebook.com' rel='dns-prefetch'/>
+<link href='//twitter.com' rel='dns-prefetch'/>
+<link href='//www.youtube.com' rel='dns-prefetch'/>
+<link href='//feedburner.google.com' rel='dns-prefetch'/>
+<link href='//www.pinterest.com' rel='dns-prefetch'/>
+<link href='//www.linkedin.com' rel='dns-prefetch'/>
+<link href='//feeds.feedburner.com' rel='dns-prefetch'/>
+<link href='//github.com' rel='dns-prefetch'/>
+<link href='//player.vimeo.com' rel='dns-prefetch'/>
+<link href='//platform.twitter.com' rel='dns-prefetch'/>
+<link href='//apis.google.com' rel='dns-prefetch'/>
+<link href='//connect.facebook.net' rel='dns-prefetch'/>
+<link href='//cdnjs.cloudflare.com' rel='dns-prefetch'/>
+<link href='//www.google-analytics.com' rel='dns-prefetch'/>
+<link href='//pagead2.googlesyndication.com' rel='dns-prefetch'/>
+<link href='//googleads.g.doubleclick.net' rel='dns-prefetch'/>
+<link href='//www.gstatic.com' rel='preconnect'/>
+<link href='//www.googletagservices.com' rel='dns-prefetch'/>
+<link href='//static.xx.fbcdn.net' rel='dns-prefetch'/>
+<link href='//tpc.googlesyndication.com' rel='dns-prefetch'/>
+<link href='//syndication.twitter.com' rel='dns-prefetch'/>
+<link href='//i.imgur.com' rel='dns-prefetch'/>
+<link href='//cdn.staticaly.com' rel='dns-prefetch'/>
+<link href='//www.mrlaboratory.info/' rel='dns-prefetch'/>
+<link href='//www.mrlaboratory.com/' rel='dns-prefetch'/>
+
+<meta expr:content='data:blog.postImageThumbnailUrl' property='og:image'/>
+
+
+<meta content='public' http-equiv='Cache-control'/>
+<meta content='text/html; charset=ISO-2022-JP' http-equiv='Content-Type'/>
+<meta content='text/javascript' http-equiv='Content-Script-Type'/>
+<meta content='public' http-equiv='Cache-control'/>
+<meta content='text/html; charset=ISO-2022-JP' http-equiv='Content-Type'/>
+<meta content='text/javascript' http-equiv='Content-Script-Type'/>
+
+
+
+
+
+ <meta expr:content='data:post.id' itemprop='post id'/>
+
+
+
+<meta content='data:blog.AuthorUrl' name='au'/>
+    <meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
+
+<script>
+
+
+var text = &#39;admin@mrlaboratory.com&#39;;
+text.linkify();
+
+&#39;http://stackoverflow.com/&#39;.linkify();
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content='#4caf50' name='theme-color'/>
+
+
+
+
+<b:if cond='data:blog.pageType == &quot;error_page&quot;'>
+<meta content='0;URL=/p/sorry.html' http-equiv='refresh'/>
+</b:if>
+
+<title>
+<b:if cond='data:blog.pageType == &quot;index&quot;'>
+<data:blog.pageTitle/>
+<b:else/>
+<b:if cond='data:blog.pageType != &quot;error_page&quot;'>
+<data:blog.pageName/> | <data:blog.title/>
+<b:else/>
+Page Not Found | <data:blog.title/>
+</b:if>
+</b:if>
+</title>
+
+
+
+<!--seo code from compromath -->
+<meta charset='utf-8'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<meta content='blogger' name='generator'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+<b:include data='blog' name='all-head-content'/>
+<link href='http://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link expr:href='data:blog.homepageUrl' rel='openid.delegate'/>
+<link expr:href='data:blog.url' rel='canonical'/>
+<meta content='Md Mijanur Rahaman' name='Author'/>
+<meta content='general' name='rating'/>
+<meta content='AnFyLM5TTIC1FHiL_IeViSDEUo42mjOg5i_Fx70WQUA' name='google-site-verification'/>
+<link href='https://plus.google.com/mrlaboratory/posts' rel='publisher'/>
+<link href='https://plus.google.com/mrlaboratory/about' rel='author'/>
+<link href='https://plus.google.com/mrlaboratory' rel='me'/>
+<meta content='1249523019746414' property='fb:app_id'/>
+<meta content='666785453762967' property='fb:admins'/>
+<meta content='https://www.facebook.com/mrlaboratory' property='fb:url'/>
+<meta expr:content='data:blog.postImageThumbnailUrl' property='og:image'/>
+
+
+
+
+<meta content='' property=''/>
+
+<link href='https://fonts.googleapis.com/css2?family=Roboto+Slab&amp;display=swap' rel='stylesheet'/>
+
+<link href='https://fonts.googleapis.com/css2?family=Hind+Siliguri&amp;display=swap' rel='stylesheet'/>
+         <link href='https://fonts.googleapis.com/css2?family=Righteous&amp;display=swap' rel='stylesheet'/>
+         <link href='https://fonts.googleapis.com/css2?family=Galada&amp;display=swap' rel='stylesheet'/>
+<meta content='https://www.facebook.com/mrlaboratory' property='Facebook Page'/>
+<meta content='https://www.facebook.com/groups/mrlaboratory' property='Facebook Group'/>
+<meta content='https://www.messenger.com/t/1231097853635264' property='Messenger Group'/>
+<meta content='https://twitter.com/mrlaboratory1' property='Twitter'/>
+<meta content='https://www.youtube.com/mrlaboratorypro' property='Youtube'/>
+<meta content='https://bd.linkedin.com/in/mrlaboratory' property='Linkedin'/>
+<meta content='https://mix.com/mrlaboratory' property='Mix'/>
+<meta content='https://www.pinterest.com/mrlaboratory/' property='Pinterest'/>
+<meta content='https://mrlaboratory1.tumblr.com/' property='Tumblr'/>
+<meta content='https://www.patreon.com/mrlaboratory' property='Patreon'/>
+<meta content='http://www.folkd.com/user/mrlaboratory' property='Folkd'/>
+<meta content='https://www.reddit.com/user/mrlaboratoryblog' property='Reddit'/>
+<meta content='http://www.pearltrees.com/mrlaboratory' property='Pearltrees'/>
+<meta content='https://www.instapaper.com/p/mrlaboratory' property='Instapaper'/>
+<meta content='https://tracky.com/~mrlaboratory' property='Tracky'/>
+<meta content='https://www.gweb.com/site/mrlaboratory-info/' property='Gweb'/>
+<meta content='http://public.sitejot.com/mrlaboratory.html' property='Sitejot'/>
+<meta content='https://play.google.com/store/apps/details?id=com.mrlaboratory.blog' property='MR Laboratory App'/>
+<meta content='https://ok.ru/mr.laboratory' property='Ok'/>
+<meta content='https://admin.mrlaboratory.info/' property='Admin Of MR Laboratory'/>
+<meta content='https://apk.mrlaboratory.info/' property='Android Apps Store'/>
+<meta content='https://download.mrlaboratory.info/' property='Download Any File'/>
+<meta content='https://link.mrlaboratory.info/' property='Safe Link'/>
+<meta content='https://result.mrlaboratory.info/' property='Educational Board Result'/>
+<meta content='https://search.mrlaboratory.info/' property='Search Engine'/>
+<meta content='https://sitemap.mrlaboratory.info/' property='Sitemap'/>
+<meta content='https://video.mrlaboratory.info/' property='Top Video'/>
+<meta content='https://play.google.com/store/apps/dev?id=6504321027546876229' property='App Developer'/>
+<meta content='https://adfty.biz/user/mrlaboratory/' property='Adfty'/>
+<meta content='https://triberr.com/mrlaboratory' property='Triberr'/>
+<meta content='https://growthhackers.com/members/mr_laboratory' property='Growthhackers'/>
+<meta content='https://slashdot.org/~mijan+mr' property='Slashdot'/>
+<meta content='https://alltop.com/my/mrlaboratory' property='Alltop'/>
+<meta content='https://www.diigo.com/profile/mrlaboratory' property='Diigo'/>
+<meta content='https://www.instagram.com/mrlaboratory2/' property='Instagram'/>
+         <meta content='Worldwide' name='coverage'/>
+         <meta content='Global' name='distribution'/>
+         <meta content='https://www.mrlaboratory.info' name='identifier-URL'/>
+         <meta content='no-cache' http-equiv='Cache-Control'/>
+         <meta content='index,follow' name='robots'/>
+         <meta content='EN , BN' name='language'/>
+         <meta content='Global' name='distribution'/>
+         <meta content='General' name='rating'/>
+
+         <meta content='bangla tutorial,bangla,bangla magic,akash bangla tricks,magic tricks,tricks,computer tips and tricks bangla,bangla tricks,all bangla tricks,bangla card tricks,all bangla trick,bangla android tips,bangla easy card tricks,pubg bangla tutorial,bangla card magic tricks,bangla magic tricks 2017,bangla magic tricks 2018,bangla card tricks revealed,magic trick,bangla pubg,magic tricks revealed,blogger,tutorial,blogger tutorial,blogger tutorial for beginners,blogger tutorial for beginners in hindi,blogger (website),blog tutorial,blogging tutorial,tutorial blogger,blogspot tutorial,blogger tutorial 2019,blogger tutorial 2018,blog,blogger tutorial video,google blogger tutorial,blogger tutorial in hindi,blogger features,blogger tutorial in telugu,blogger full tutorial 2018,blogger tutorial advanced,blogger services, software cracking,cracking,software,hacking,cracking software,what is software cracking,software cracking using ollydbg,crack software,software cracking tutorial in hindi,how to crack software registration key,how to crack software license key with ollydbg,how to crack software license key tutorial,cracked software,sofware cracking,how to crack any software,software cracking tools,any software crack download,virus,computer,computer virus,attack,viruses,worst computer virus,computer virus (software genre),computer viruses,worst computer viruses,computers,worst virus,virus attack on my computer,virus attack,computer virus animation,cyber attack,computer worm,symptoms of virus attack,dangerous computer virus,#computer viruses,worst computer virus in history,most damaging computer virus,most dangerous computer virus, tricks,youtube secrets,secret whatsapp tricks,tips and tricks,phone secret tricks,youtube search tricks in hindi,new whatsapp tricks,youtube secret trick,youtube secret search tricks,google tricks,whatsapp tricks,magic tricks,youtube secret tips,youtube search tricks,youtube serach tricks,youtube search,youtube tricks,mobile secret tricks,youtube tips,secret whatsapp features,ios 12 secret tricks,facebook video marketing,video marketing,facebook marketing,video marketing tips,video marketing strategy,facebook video,facebook video ads,online video marketing,video marketing for business,facebook video marketing tips,facebook,video content marketing,video marketing on facebook,facebook marketing tips,facebook video ad,social media marketing,video marketing 2019,youtube video marketing,video marketing tools, bitcoin mining,bitcoin,mining,bitcoin mining 2019,what is bitcoin mining,bitcoin mining software,bitcoin mining profitable,free bitcoin,bitcoin miner,free bitcoin mining,bitcoin mining hardware,free bitcoin mining software,bitcoin mining profitable 2019,how to mine bitcoin,bitcoin mining software free download,bitcoin gold,mining bitcoin,bitcoin cash,mining bitcoin 2019,mining bitcoins,altcoin,bitcoin miners,digital payment,discounts,flipkart discount offer,discount on diesel,flipcark new discount offer,flipcark recharge discount offer,payment voucher,lic payment online,google tez bil pement offer,vestige payment video,google pay bill pement offer,entry of payment voucher,upi online payment of lic,vestige payment plan,digital payment mode,ring id payment proof,ringid payment proof, motivational speech,motivational video,best motivational speech,powerful motivational speech,motivational,speech,motivation,best motivational video,motivational speech compilation,steve harvey motivational speech,motivational speeches,steve harvey motivational speech 2019,best motivational speech compilation ever,steve harvey motivational speech on stress,steve harvey motivational speech on success,last motivational speech,life hacks,tricks,simple life hacks,life hack,hacks,easy life hacks,3 simple life hacks,trucos,simple hacks,lifehacks,magic tricks,fun life hacks,home life hacks,best life hacks,money life hack,viral life hacks,simple life hack,mr suny life hack,diy hacks,useful life hacks,pencil life hacks,clever life hacks,tik tok life hacks,balloon life hacks,girl hacks,life,25 simple life hacks, flash,mobile flash,mobile,flash mobile,samsung mobile flash,android flash,que es flash mobile,how to flash mobile,planes flash mobile,mobile flash app,clap mobile flash,mobile flash file store qmobile,mobile light flash,mobile flash bangla,walton mobile flash,plan de compensacion flash mobile,mobile flash samsung,all mobile flash file,mobile flash youtube,mobile repair,mobile flashlight photo editor,trickbd,trickbd wordpress theme,trick,trick bd,trickbd.com,trickbd post,trickbd theme,tricksbd ltd,author trickbd,trickbd airtel,tricks,trickbd youtube,for trickbd free,trickbd all code,trickra,trickbd pc version,how to author trickbd,trickbd mobile theme,how to post in trickbd,trickbd orginal theme,download trickbd theme,trickbd script download,trickbd youtube channel,trickbd style site create,free hosting,free web hosting,free website hosting,free domain,hosting,free wordpress hosting,free webhosting,web hosting free,free hosting website,web hosting,how to get free hosting,free cpanel hosting,best free web hosting,lifetime free hosting,free hosting and domain,free domain and hosting,free web hosting and domain,hosting free,how to get free domain,free hosting and domain for wordpress,' name='description'/>
+
+<b:if cond='data:blog.pageType == &quot;index&quot;'>
+<title><data:blog.pageTitle/></title>
+<b:else/>
+<b:if cond='data:blog.pageType != &quot;error_page&quot;'>
+<title><data:blog.pageName/> - <data:blog.title/></title>
+</b:if></b:if>
+
+<b:if cond='data:blog.pageType == &quot;error_page&quot;'>
+<title>Page Not Found - <data:blog.title/></title>
+</b:if>
+<b:if cond='data:blog.pageType == &quot;archive&quot;'>
+<meta content='noindex' name='robots'/>
+</b:if>
+<b:if cond='data:blog.searchLabel'>
+<meta content='noindex,nofollow' name='robots'/>
+</b:if>
+<b:if cond='data:blog.isMobile'>
+<meta content='noindex,nofollow' name='robots'/>
+</b:if>
+<b:if cond='data:blog.pageType != &quot;error_page&quot;'>
+<meta expr:content='data:blog.metaDescription' name='description'/>
+<meta content='android,android apps,Android games, android tips,Anti virus, Virus Attack,Bangla Tutorial,BCS,bitcoin mining,Bkash,Blogger,Blogger Template,blogger Tutorial, blogger hacks, youtube secret tricks, facebook video marketing, board result,computer,Computer sw, software hack, software crack, wifi hacking, learn hacking, Computer tips,CPA marketing,cracking,Cyber Security,dark web,Digital marketing,domain, Earning,Educational,English Content,Ethical Hacking,facebook,facebook marketing,facebook recover, facebook security,Facebook Tips,Flash File,Free blog MR Laboratory,Freelance,FRP unlock, Gmail,Google,Google Adsense,google drive tricks,Graphics DesignHacking,health tips,free hosting, Internet Technology,Life Hacks,md mijanur rahaman,microsoft,mobile hacking, imo hacking, mobile tips,Motivation,MR Laboratory,Network,oparetor tips,Operator News,operating system,Outsourcing, Photo editing,Search Engine,SEO Tutorial,sim hacking, html , css, php , c programming, python, java script, best english songs, best blogger , best website, best youtube channel, computer science, computer technology, technical sagar, youtube bangla, facebook spamming, sobuj bangla tv, mr search engine, trickbd, techtunes, wizbd, tipsbd, tips bangla, technologybd, youtube channel hacking,  Shamz Vai,software,Sohag360,Songs Lyrics,spamming,Technology,termux,Tips and Tricks,Tor Browser, Tricks,Video Editing,virus attack,best VPN,web design, exam hacks, life hacks tips, cmd tricks, unlock any device, bypass pattern lock, brack android device lock,  website,windows,wordpress,Youtube marketing,youtube tricks,অজানা তথ্য,অজানা বিশ্ব,' name='keywords'/>
+
+
+<meta content=' mrlaboratory.info, mr laboratory blog, mr laboratory info, computer tricks, blogger tutorial, bangla tricks, bangla hacking, learn hacking, hacking bangla, youtube bangla, youtube tricks, youtube help, youtube secret, youtube update, youtube rules, youtube tutorial, earnmony, make mony, earn mony, makemony, technology, hacking tutorial, bangla blog, bangla review, imo hack, imo tricks, fb hack, facebook hack, facebook name change, facebook setting, facebook secure, facebook update, facebook id dissable, fb id dissable, facebook dissable id back, id back, facebook spamming, free blogger template, free software, free apps, hacking apps, hacking tool, hacking video, hacking facebook, free domain, free hosting, free website, free blogsite, online income, incomebd, income, facebook income, youtube income, facebook earning, youtube earning, ads click erning, doller earning, doller income, cracking, learn cracking, learn youtube, facebook monitize, youtube monitaize, facebook verify, id verify, fake id card, make fake id card, hacking news, windows hack, computer hack, wifi hack, LAN, WAN, wifi cracking, wifi password find, wifi attack, facebook attack, mobile hack, android hack, computer tips, computer hack, fake license, fake passport, blogger, mr blog, blogger tutorial, blogger temoplate, blogger setting, blogger tricks, blogger tips and tricks, blogger tips, blogger hacks, hacking bangla, public blog , mr laboratory public blog, mr public blog, Gp free net, Gp free net working, Gp free net for pc, Gp free net for android, Gp free net trick, robi free net, bl free net,banglalink free net, grameenphone free net, airtel free net, airtel free net trick, free net with opera mini, free net with uc browser, free net for mozilla firefox, free net for java, free net for android, tipsnow24, trickbd, tipsnow, tunerpage,informbd,informbd.com, bl free net, hack free net, hack fb, hack fb bangla,amartips24, techtunesbd, gp free net, techtunes, blog, bangla, bengali, technology, tech, computer,mobile, bangla blog, technology blog, bangladesh, blogging, টেকটিউনস, বাংলা সোসিয়াল নেটওয়ার্ক, বাংলা ব্লগ, বাংলাদেশ, বাংলা, প্রযুক্তি ব্লগ, প্রযুক্তি সোসিয়াল নেটওয়ার্ক, টেক সাইট, কম্পিউটার , ব্লগিং, আইটি, টেক সংবাদ,আইফোন, আইপড, মোবাইল, ওয়েব, ওয়েব সাইট, it, ict, new gadget, tech news, science technology,download, antivirus, rss, rss feed, photoshop, wordpress, joomla, plugin, iphone, firefox, google, online income, adsense, software, freeware, tutorial, webware, tips tricks, yahoo, facebook, web design, web development, satellite tv, css, c, programming, programming language, html, xhtml, php, mysql, ajax,jquery, python, video editing, mp3, movie download, mobile software, bangla computing, unicode bangla, unicode, photography, linux, opensounce, ubuntu, linux mint, electronics, graphics, graphics design, animation, multimedia, hacks, hack, hacking, review, tech humor, internet, web, web hosting,hosting, domain, creativity, best site, games, online games, hardware, gismo, net, network, networking,mobile internet, gp internet, gp, grameenphone internet, zoom internet, modem, usb, pendrive, usb drive, wordpress theme, wordpress plugin, twitter, seo, search engine, search, blogging platform, podcast, online radio, online poll, survey, creativity within, windows, microsoft, xp, windows xp,windows 7, ie, internet explorer, technology news, opera, chrome, youtube, data recovery, data recover,rapidshare, mediafire, dropbox, cloud computing, bd result, jsc result, songs lyrics, blogger tutorial, hacking, hacking tricks, learn hacking, about hacking, dark web, dark web visit, mobile tricks, news , bangla news, mobile tips, mobile hacking, mobile control, facebook hacking,jsc, ssc, ssc result, psc result bd,bangla all result, bd all result free internet trick,  ইসলামের ইতিহাস, প্রয়োজনীয় দোয়া, দোয়া কবুলের সময়, দোয়া ও আমল, দোয়া কবুল হওয়ার আমল, দোয়া করি, দোয়া ইউনুস, দোয়ার বই, মোনাজাত, দোয়া মাছুরা, নামাজ শিক্ষা বই ডাউনলোড, নামাজ শিক্ষা pdf, নামাজ কত রাকাত, নামাজ শিক্ষা বই পিডিএফ, নামাজ শিক্ষার নিয়ম, নুরানী নামাজ শিক্ষা বই, নামাজ পড়ার নিয়ম, নামাজ শিক্ষা ডাউনলোড, নামায শিক্ষা, নামাজের ওয়াক্ত ও রাকাত, ফজরের নামাজ কত রাকাত, বেতের নামাজ পড়ার নিয়ম, নামাজ শিক্ষা বই, ইসলামিক গান, ইসলামিক বই, ইসলামিক নাম, ইসলামী সংগীত, ইসলামিক উক্তি, ইসলামিক ফাউন্ডেশন, ইসলাম ধর্ম, ইসলাম কি, blog,mobile tips bangla, bangla, today news,bd news today,মোবাইল টিপস,হ্যাকিং টিপস,mobile tips,Android tips and trick,tips and tricks bd,Android tips bangla,bd news,বাংলা ব্লগ,bangla tips and tricks,bd tech site,technical website bd,web trick,web trick bd,pc tips and tric,computer tips,technology news bangka,free net,gp free net,robi free net,grameenphone free net,airtel free net,banglalink free net,wizbd,wizbd.com,js masud,জিপি ফ্রি নেট,রবি ফ্রি নেট,এয়ারটেল ফ্রি নেট,বাংলালিনক ফ্রি নেট,অ্যান্ড্রয়েড টিপস, bengali, technology, tech, computer,mobile,বিজ্ঞান ও প্রযুক্তি, tech news,প্রযুক্তি সংবাদ, bangla blog, technology blog, bangladesh, blogging, টেকটিউনস, বাংলা সোসিয়াল নেটওয়ার্ক, বাংলা ব্লগ, বাংলাদেশ, বাংলা, প্রযুক্তি ব্লগ, প্রযুক্তি সোসিয়াল নেটওয়ার্ক, টেক সাইট, কম্পিউটার, ব্লগিং, আইটি, টেক সংবাদ, আইফোন, আইপড, মোবাইল, ওয়েব, ওয়েব সাইট,bd tech news,technology, IT, ICT, new gadget, tech news, science &amp; technology, download, antivirus, rss, rss feed, photoshop, wordpress, joomla, plugin, iphone, firefox, google, online income, adsense, software, freeware, tutorial, webware, tips &amp; tricks, yahoo, facebook, web design, web development, satellite tv, css, c++, c, programming, programming language, html, xhtml, php, mysql, ajax, jquery, python, video editing, mp3, movie download, mobile software, bangla computing, unicode bangla, unicode, photography, linux, opensounce, ubuntu, linux mint, electronics, graphics, graphics design, animation, multimedia, hacks, hack, hacking, review, tech humor, internet, web, web hosting, hosting, domain, creativity, best site, games, online games, hardware, gismo, net, network, networking, mobile internet, gp internet, gp, grameenphone internet, zoom internet, modem, usb, pendrive, usb drive, wordpress theme, wordpress plugin, twitter, seo, search engine, search, blogging platform, podcast, online radio, online poll, survey, creativity within, windows, microsoft, xp, windows xp, windows 7, ie, internet explorer, tech news, technology news, opera, chrome, youtube, data recovery,tech news, bd tech news, data recover, rapidshare, mediafire, dropbox, cloud computing' name='tag'/>
+ 
+
+<meta content='android,android apps,Android games, android tips,Anti virus, Virus Attack,Bangla Tutorial,BCS,bitcoin mining,Bkash,Blogger,Blogger Template,blogger Tutorial, blogger hacks, youtube secret tricks, facebook video marketing, board result,computer,Computer sw, software hack, software crack, wifi hacking, learn hacking, Computer tips,CPA marketing,cracking,Cyber Security,dark web,Digital marketing,domain, Earning,Educational,English Content,Ethical Hacking,facebook,facebook marketing,facebook recover, facebook security,Facebook Tips,Flash File,Free blog MR Laboratory,Freelance,FRP unlock, Gmail,Google,Google Adsense,google drive tricks,Graphics DesignHacking,health tips,free hosting, Internet Technology,Life Hacks,md mijanur rahaman,microsoft,mobile hacking, imo hacking, mobile tips,Motivation,MR Laboratory,Network,oparetor tips,Operator News,operating system,Outsourcing, Photo editing,Search Engine,SEO Tutorial,sim hacking, html , css, php , c programming, python, java script, best english songs, best blogger , best website, best youtube channel, computer science, computer technology, technical sagar, youtube bangla, facebook spamming, sobuj bangla tv, mr search engine, trickbd, techtunes, wizbd, tipsbd, tips bangla, technologybd, youtube channel hacking,  Shamz Vai,software,Sohag360,Songs Lyrics,spamming,Technology,termux,Tips and Tricks,Tor Browser, Tricks,Video Editing,virus attack,best VPN,web design, exam hacks, life hacks tips, cmd tricks, unlock any device, bypass pattern lock, brack android device lock,  website,windows,wordpress,Youtube marketing,youtube tricks,অজানা তথ্য,অজানা বিশ্ব,' name='category'/>
+
+
+<meta content='website' property='og:type'/>
+<meta content='https://www.mrlaboratory.info/' property='og:url'/>
+<meta content='global' name='distribution'/>
+<meta content='admin@mrlaboratory.com' name='email'/>
+<meta content='https://facebook.com/mdmijanurrahaman.mr' property='fb:admins'/>
+<meta content='all' name='audience'/>
+<meta content='general' name='rating'/>
+<meta content='all' name='robots'/>
+<meta content='en-us' name='language'/>
+<meta content='bangladesh' name='country'/>
+<meta content='Technological tips and tricks' name='topic'/>
+<meta content='admin@mrlaboratory.com' name='reply-to'/>
+<meta content='Md Mijanur Rahaman' name='Admin'/>
+<meta content='https://facebook.com/mrlaboratory' name='Facebook-page'/>
+<meta content='https://www.linkedin.com/in/mrlaboratory/' name='Linkedin'/>
+<meta content='https://mix.com/mrlaboratory' name='Mix'/>
+<meta content='https://www.pinterest.com/mrlaboratory/' name='pinterest'/>
+<meta content='https://twitter.com/mrlaboratory1' name='Twitter'/>
+<meta content='http://mrlaboratory1.tumblr.com/' name='tumblr'/>
+<meta content='https://dribbble.com/mrlaboratory' name='dribbble'/>
+<meta content='https://www.patreon.com/mrlaboratory' name='patreon'/>
+<meta content='http://www.folkd.com/user/mrlaboratory' name='folkd'/>
+<meta content='https://www.fark.com/users/mrlaboratory' name='fark'/>
+
+<meta content='https://www.fark.com/users/mrlaboratory' name='fark'/>
+
+<meta content='https://facebook.com/groups/mrlaboratory' name='Facebook-Group'/>
+
+<b:if cond='data:blog.homepageUrl != data:blog.url'>
+<meta expr:content='data:blog.pageName + &quot;, &quot; + data:blog.pageTitle + &quot;, &quot; + data:blog.title' name='title'/>
+</b:if></b:if>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<meta content='android,android apps,Android games, android tips,Anti virus, Virus Attack,Bangla Tutorial,BCS,bitcoin mining,Bkash,Blogger,Blogger Template,blogger Tutorial, blogger hacks, youtube secret tricks, facebook video marketing, board result,computer,Computer sw, software hack, software crack, wifi hacking, learn hacking, Computer tips,CPA marketing,cracking,Cyber Security,dark web,Digital marketing,domain, Earning,Educational,English Content,Ethical Hacking,facebook,facebook marketing,facebook recover, facebook security,Facebook Tips,Flash File,Free blog MR Laboratory,Freelance,FRP unlock, Gmail,Google,Google Adsense,google drive tricks,Graphics DesignHacking,health tips,free hosting, Internet Technology,Life Hacks,md mijanur rahaman,microsoft,mobile hacking, imo hacking, mobile tips,Motivation,MR Laboratory,Network,oparetor tips,Operator News,operating system,Outsourcing, Photo editing,Search Engine,SEO Tutorial,sim hacking, html , css, php , c programming, python, java script, best english songs, best blogger , best website, best youtube channel, computer science, computer technology, technical sagar, youtube bangla, facebook spamming, sobuj bangla tv, mr search engine, trickbd, techtunes, wizbd, tipsbd, tips bangla, technologybd, youtube channel hacking,  Shamz Vai,software,Sohag360,Songs Lyrics,spamming,Technology,termux,Tips and Tricks,Tor Browser, Tricks,Video Editing,virus attack,best VPN,web design, exam hacks, life hacks tips, cmd tricks, unlock any device, bypass pattern lock, brack android device lock,  website,windows,wordpress,Youtube marketing,youtube tricks,অজানা তথ্য,অজানা বিশ্ব,' name='keywords'/></b:if>
+<link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default?alt=rss&quot;' expr:title='data:blog.title + &quot; - RSS&quot;' rel='alternate' type='application/rss+xml'/>
+<link expr:href='&quot;http://www.mrlaboratory.info/feeds/&quot; + data:blog.blogId + &quot;/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<b:if cond='data:blog.postImageThumbnailUrl'>
+<link expr:href='data:blog.postImageThumbnailUrl' rel='image_src'/>
+</b:if></b:if>
+
+
+<!-- Default, no image -->
+<meta content='https://1.bp.blogspot.com/-W_tFV-6Iqt4/XchSIJsmTqI/AAAAAAAAApg/L4_Pj5sYtDI5tnB28g6mGYxsT_w1RUajQCLcBGAsYHQ/s1600/icon.png' property='og:image'/>
+
+<!--seo code from compromath -->
+              <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+
+
+
+              <!-- Bootstrap -->
+              <!-- Latest compiled and minified CSS -->
+            <link crossorigin='anonymous' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' integrity='sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u' rel='stylesheet'/>
+          
+
+<link crossorigin='anonymous' href='https://fonts.googleapis.com/css?family=Trade+Winds&amp;display=swap' rel='stylesheet'/>
+
+            <!-- Latest compiled and minified JavaScript -->
+            <script crossorigin='anonymous' integrity='sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'/>
+          
+              <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+              <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+              <!--[if lt IE 9]>
+                <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+                <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+              <![endif]-->
+          
+              <b:skin><![CDATA[
+              /**PUT YOUR ALL CSS HERE**/
+
+
+
+
+.thumbnail-post {
+border:2px solid #59615a;
+border-radius:20px;
+  width:150px;
+max-width: 150px;
+max-height: 100px;
+height:100px;
+float:left;
+margin-right: 5px;
+
+}
+
+.home-post{
+border:2px solid #4caf50;
+  border-top-right-radius: 20px;
+  border-button-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+ position:relative;
+background-color: #b6e0e6;
+padding : 1px;
+
+
+}
+
+.fa_icon_share {
+  padding: 1.5%;
+  font-size: 25px;
+  width: 5%;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              ]]></b:skin>
+			  
+
+
+
+
+   <meta charset='UTF-8'/>
+   <meta content='Founder and SEO of MR Laboratory' name='description'/>
+   <meta content='HTML,CSS,XML,JavaScript' name='keywords'/>
+   <meta content='Md Mijanur Rahaman' name='author'/>
+   <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+            
+
+
+		</head>
+<link href='https://njrx4zqm16a9acwgfairna-on.drv.tw/www.css.com/mroldblogthemecss.css' rel='stylesheet'/>
+  <link href='https://www.w3schools.com/w3css/4/w3.css' rel='stylesheet'/>
+<link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
+			 <body class='body'>
+
+
+<ul class='header-menu-mr'>
+  <div class='header-msg'>
+   <marquee><h2>Please always use mask and wash yours hands properly 
+#Stay_home #Stay_Safe</h2></marquee>
+
+</div>
+
+
+
+
+  <img alt='rounded mr laboratories logo' class='w3-jumbo w3-spin fa fa-home' height='100' id='rounder' src='https://1.bp.blogspot.com/-M50aa1f022k/XjMRJvavalI/AAAAAAAAADg/MNbugNS1ZpouPpr906IRfJMrYpXJAq5MgCLcBGAsYHQ/s320/icon.png' title='Rounded MR Laboratory logo' width='100'/>
+
+  <li><a href='/' title='Home MR Laboratory'>Home</a></li>
+  <li><a href='/p/about.html' title='About MR Laboratory'>About</a></li>
+  <li><a href='/p/contact.html' title='Contact MR Laboratory'>Contact</a></li>
+  <li><a href='/p/visitor-feedback-list.html' title='Visitor Feedback list MR Laboratory'>Feedback</a></li>
+
+
+</ul>
+			 
+		 
+		<div id='mr1'/>
+               <p id='mr-search'>Search Engine</p>
+ 
+             <br/> <br/>
+               <div class='wrapper-s'>
+<div class='article'>
+	<div class='article1'> 
+
+
+<script async='async' src='https://cse.google.com/cse.js?cx=partner-pub-8671569483226902:1936539649'/>
+<div class='gcse-search'/>
+
+
+</div> 
+<div class='article2'>
+
+
+
+
+
+
+
+	  
+			  
+                 <br/> <b:section class='main' id='main' showaddelement='yes'>
+<b:widget id='Blog1' locked='false' title='Blog Posts' type='Blog' version='1'>
+  <b:widget-settings>
+    <b:widget-setting name='commentLabel'>Comments</b:widget-setting>
+    <b:widget-setting name='showShareButtons'>false</b:widget-setting>
+    <b:widget-setting name='authorLabel'>Writer</b:widget-setting>
+    <b:widget-setting name='disableGooglePlusShare'>true</b:widget-setting>
+    <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+    <b:widget-setting name='timestampLabel'>Published</b:widget-setting>
+    <b:widget-setting name='reactionsLabel'>Reaction</b:widget-setting>
+    <b:widget-setting name='showAuthorProfile'>true</b:widget-setting>
+    <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+    <b:widget-setting name='showLocation'>false</b:widget-setting>
+    <b:widget-setting name='showTimestamp'>false</b:widget-setting>
+    <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+    <b:widget-setting name='style.bordercolor'>#000000</b:widget-setting>
+    <b:widget-setting name='backlinksLabel'>MR Laboratory</b:widget-setting>
+    <b:widget-setting name='showDateHeader'>true</b:widget-setting>
+    <b:widget-setting name='style.textcolor'>#f2132d</b:widget-setting>
+    <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+    <b:widget-setting name='style.urlcolor'>#1e87f0</b:widget-setting>
+    <b:widget-setting name='showAuthor'>true</b:widget-setting>
+    <b:widget-setting name='style.linkcolor'>#1e87f0</b:widget-setting>
+    <b:widget-setting name='style.bgcolor'>#000000</b:widget-setting>
+    <b:widget-setting name='showLabels'>true</b:widget-setting>
+    <b:widget-setting name='postLabelsLabel'>ল&#2503;ব&#2503;লসম&#2498;হ:</b:widget-setting>
+    <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+    <b:widget-setting name='showInlineAds'>true</b:widget-setting>
+    <b:widget-setting name='showReactions'>false</b:widget-setting>
+  </b:widget-settings>
+  <b:includable id='main' var='top'>
+  <b:if cond='!data:mobile'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.isDateStart and not data:post.isFirstPost'>
+          &lt;/div&gt;&lt;/div&gt;
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-outer&quot;&gt;
+        </b:if>
+        <b:if cond='data:post.dateHeader'>
+  <div class='post-footer-line post-footer-line-2'>
+      <span>
+        <b:if cond='data:top.showPostLabels and data:post.labels'>
+          <data:/>
+          <b:loop values='data:post.labels' var='label'>
+            <a class='post-labels' expr:href='data:label.url' rel='tag'><data:label.name/></a><b:if cond='not data:label.isLast'>,</b:if>
+          </b:loop>
+        </b:if>
+      </span>
+      </div>
+
+
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-posts&quot;&gt;
+        </b:if>
+        <div class='post-outer'>
+
+
+
+
+
+          <b:include data='post' name='post'/>
+          <b:include cond='data:blog.pageType in {&quot;static_page&quot;,&quot;item&quot;}' data='post' name='comment_picker'/>
+        </div>
+
+        <!-- Ad -->
+        <b:if cond='data:post.includeAd'>
+          <div class='inline-ad'>
+            <data:adCode/>
+          </div>
+        </b:if>
+      </b:loop>
+      <b:if cond='data:numPosts != 0'>
+        &lt;/div&gt;&lt;/div&gt;
+      </b:if>
+    </div>
+
+    <!-- navigation -->
+    <b:include name='nextprev'/>
+
+    <!-- feed links -->
+    <b:include name='feedLinks'/>
+
+  <b:else/>
+    <b:include name='mobile-main'/>
+  </b:if>
+
+  <b:include cond='data:top.showPlusOne' name='googlePlusBootstrap'/>
+</b:includable>
+  <b:includable id='backlinkDeleteIcon' var='backlink'>
+  <span expr:class='&quot;item-control &quot; + data:backlink.adminClass'>
+    <a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'>
+      <img alt='mr laboratory delate icon' src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+    </a>
+  </span>
+</b:includable>
+  <b:includable id='backlinks' var='post'/>
+  <b:includable id='comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <h4 id='comment-post-message'>
+        <a expr:id='data:widget.instanceId + &quot;_comment-editor-toggle-link&quot;' href='javascript:void(0)'><data:postCommentMsg/></a></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' scrolling='no' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <h4 id='comment-post-message'><data:postCommentMsg/></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' scrolling='no' src='' width='100%'/>
+    </b:if>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+  <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'>
+        <img alt='mr laboratory delate' src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+  <b:includable id='comment_count_picker' var='post'>
+  <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'>
+    <data:post.commentLabelFull/>:
+  </a>
+</b:includable>
+  <b:includable id='comment_picker' var='post'>
+  <b:if cond='data:post.showThreadedComments'>
+    <b:include data='post' name='threaded_comments'/>
+  <b:else/>
+    <b:include data='post' name='comments'/>
+  </b:if>
+</b:includable>
+  <b:includable id='comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+      <h4><data:post.commentLabelFull/>:</h4>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <b:if cond='data:post.hasOlderLinks'>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'><data:post.oldestLinkText/></a>
+              &#160;
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'><data:post.olderLinkText/></a>
+              &#160;
+          </b:if>
+
+          <data:post.commentRangeText/>
+
+          <b:if cond='data:post.hasNewerLinks'>
+            &#160;
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'><data:post.newerLinkText/></a>
+            &#160;
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'><data:post.newestLinkText/></a>
+          </b:if>
+        </span>
+      </b:if>
+
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <dl expr:class='data:post.avatarIndentClass' id='comments-block'>
+          <b:loop values='data:post.comments' var='comment'>
+            <dt expr:class='&quot;comment-author &quot; + data:comment.authorClass' expr:id='data:comment.anchorName'>
+              <b:if cond='data:comment.favicon'>
+                <img alt='mr laboratory favicon' expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/>
+              </b:if>
+              <a expr:name='data:comment.anchorName'/>
+              <b:if cond='data:blog.enabledCommentProfileImages'>
+                <data:comment.authorAvatarImage/>
+              </b:if>
+              <b:if cond='data:comment.authorUrl'>
+                <a expr:href='data:comment.authorUrl' rel='nofollow'><data:comment.author/></a>
+              <b:else/>
+                <data:comment.author/>
+              </b:if>
+              <data:commentPostedByMsg/>
+            </dt>
+            <dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'>
+              <b:if cond='data:comment.isDeleted'>
+                <span class='deleted-comment'><data:comment.body/></span>
+              <b:else/>
+                <p>
+                  <data:comment.body/>
+                </p>
+              </b:if>
+            </dd>
+
+            <dd class='comment-footer'>
+
+              <span class='comment-timestamp'>
+                <a expr:href='data:comment.url' title='comment permalink'>
+                  <data:comment.timestamp/>
+                </a>
+                <b:include data='comment' name='commentDeleteIcon'/>
+              </span>
+            </dd>
+          </b:loop>
+        </dl>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+            <data:post.oldestLinkText/>
+          </a>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+            <data:post.olderLinkText/>
+          </a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+            <data:post.newerLinkText/>
+          </a>
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+            <data:post.newestLinkText/>
+          </a>
+        </span>
+      </b:if>
+
+<div class='ads-scroll'>
+<script async='async' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'/>
+<ins class='adsbygoogle' data-ad-client='ca-pub-8671569483226902' data-ad-format='fluid' data-ad-layout-key='-gw-3+1f-3d+2z' data-ad-slot='2295787166' style='display:block'/>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+      </div>
+
+
+
+      <p class='comment-footer'><div class='comment-custom-msg'>
+      <p>Give us your valuable feedback about this post</p></div>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='comment-form'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:elseif cond='data:post.allowComments'/>
+          <a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+        </b:if>
+      </p>
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+       <b:include cond='data:post.showBacklinks' data='post' name='backlinks'/>
+    </div>
+    </div>
+  </div>
+</b:includable>
+  <b:includable id='feedLinks'>
+  <b:if cond='data:blog.pageType != &quot;item&quot;'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+
+  <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:include cond='data:post.allowComments and data:post.feedLinks' data='post.feedLinks' name='feedLinksBody'/>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+  <b:includable id='feedLinksBody' var='links'>
+ 
+</b:includable>
+  <b:includable id='iframe_comments' var='post'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+  <b:includable id='mobile-index-post' var='post'>
+  <div class='mobile-date-outer date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <div class='date-header'>
+        <span><data:post.dateHeader/></span>
+      </div>
+    </b:if>
+
+    <div class='mobile-post-outer'>
+      <a expr:href='data:post.url'>
+        <h3 class='mobile-index-title entry-title' itemprop='name'>
+          <data:post.title/>
+        </h3>
+
+        <div class='mobile-index-arrow'>&amp;rsaquo;</div>
+
+        <div class='mobile-index-contents'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <div class='mobile-index-thumbnail'>
+              <div class='Image'>
+                <img alt='mrlaboratory post thumbnail' expr:src='data:post.thumbnailUrl'/>
+              </div>
+            </div>
+          </b:if>
+
+          <div class='post-body'>
+
+            <b:if cond='data:post.snippet'><data:post.snippet/></b:if>
+          </div>
+        </div>
+<div>Writer <data:post.author/> </div>
+        <div style='clear: both;'/>
+      </a>
+
+      <div class='mobile-index-comment'>
+        <b:include cond='data:blog.pageType != &quot;static_page&quot;                          and data:post.allowComments                          and data:post.numComments != 0' data='post' name='comment_count_picker'/>
+      </div>
+    </div>
+  </div>
+</b:includable>
+  <b:includable id='mobile-main' var='top'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:if cond='data:blog.pageType == &quot;index&quot;'>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-index-post'/>
+        </b:loop>
+      <b:else/>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-post'/>
+        </b:loop>
+      </b:if>
+    </div>
+
+   <b:include name='mobile-nextprev'/>
+</b:includable>
+  <b:includable id='mobile-nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+
+
+<!--newer older home link-->
+
+
+    <b:if cond='data:newerPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'>&amp;lsaquo;</a>
+      </div>
+    </b:if>
+<b:if cond='data:olderPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'>&amp;rsaquo;</a>
+      </div>
+    </b:if>
+
+    
+   
+
+  </div>
+
+   
+
+  <div class='clear'/>
+</b:includable>
+  <b:includable id='mobile-post' var='post'>
+  <div class='date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+    </b:if>
+    <div class='date-posts'>
+      <div class='post-outer'>
+
+        <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <meta expr:content='data:post.thumbnailUrl' itemprop='image_url'/>
+          </b:if>
+          <meta expr:content='data:blog.blogId' itemprop='blogId'/>
+          <meta expr:content='data:post.id' itemprop='postId'/>
+
+          <a expr:name='data:post.id'/>
+         
+          <div class='post-header'>
+
+            <div class='post-header-line-1'/>
+
+           
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<div class='author1'>
+
+
+
+
+
+<div class='author2'>
+ <img alt='author of mr laboratory ' class='w3-jumbo w3-spin fa fa-home' src='data:post.authorPhoto.url'/>
+</div>
+ 
+
+
+<div class='author3'>
+<name> Writer
+<a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'><span itemprop='name'><data:post.author/> </span></a>
+  </name><br/>
+
+
+
+</div>
+
+
+
+
+</div>
+</b:if>
+<br/>
+          </div>
+
+          <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='articleBody'>
+
+
+
+
+            <data:post.body/>
+
+            <div style='clear: both;'/> 
+
+          </div>
+
+          <div class='post-footer'>
+
+
+	<!-- Related Post Widget Start -->
+		  <div class='related-post' id='related-post'/>
+		  <script type='text/javascript'>
+		  var labelArray = [<b:if cond='data:post.labels'><b:loop values='data:post.labels' var='label'>
+				  &quot;<data:label.name/>&quot;<b:if cond='data:label.isLast != &quot;true&quot;'>,</b:if>
+			  </b:loop></b:if>];
+		  var relatedPostConfig = {
+			  homePage: &quot;<data:blog.homepageUrl/>&quot;,
+			  widgetTitle: &quot;&lt;h4&gt;Related Posts :&lt;/h4&gt;&quot;,
+			  numPosts: 5,
+			  summaryLength: 100,
+			  titleLength: &quot;auto&quot;,
+			  thumbnailSize: 60,
+			  noImage: &quot;https://1.bp.blogspot.com/-W_tFV-6Iqt4/XchSIJsmTqI/AAAAAAAAApg/L4_Pj5sYtDI5tnB28g6mGYxsT_w1RUajQCLcBGAsYHQ/s1600/icon.png&quot;,
+			  containerId: &quot;related-post&quot;,
+			  newTabLink: false,
+			  moreText: &quot;Read More...&quot;,
+			  widgetStyle: 2,
+			  callBack: function() {}
+		  };
+		  </script>
+		<!-- Related Post Widget End -->
+
+
+            <div class='post-footer-line post-footer-line-1'>
+              <span class='post-author vcard'>
+                <b:if cond='data:top.showAuthor'>
+                  <b:if cond='data:post.authorProfileUrl'>
+                    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
+                      <a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
+                        <span itemprop='name'><data:post.author/></span>
+                      </a>
+                    </span>
+                  <b:else/>
+                    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <span itemprop='name'><data:post.author/></span>
+                    </span>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-timestamp'>
+                <b:if cond='data:top.showTimestamp'>
+                  <data:top.timestampLabel/>
+                  <b:if cond='data:post.url'>
+                    <meta expr:content='data:post.url.canonical' itemprop='url'/>
+                    <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'><data:post.timestamp/></abbr></a>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-comment-link'>
+                <b:include cond='data:blog.pageType not in {&quot;item&quot;,&quot;static_page&quot;}                                  and data:post.allowComments' data='post' name='comment_count_picker'/>
+              </span>
+            </div>
+<div class='post-level'>
+            <div class='post-footer-line post-footer-line-2'>
+              <b:if cond='data:top.showMobileShare'>
+                <div class='mobile-link-button goog-inline-block' id='mobile-share-button'>
+                  <a href='javascript:void(0);'><data:shareMsg/></a>
+                </div>
+              </b:if>
+              <b:if cond='data:top.showDummy'>
+                <div class='goog-inline-block dummy-container'><data:post.dummyTag/></div>
+              </b:if>
+            </div>
+
+          </div>
+        </div> </div>
+
+        <b:include cond='data:blog.pageType in {&quot;static_page&quot;,&quot;item&quot;}' data='post' name='comment_picker'/>
+      </div>
+    </div>
+  </div>
+</b:includable>
+  <b:includable id='nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+
+
+ <!--newer older home-->
+
+<div class='arrow-mr'>
+
+ <b:if cond='data:newerPageUrl'>
+      <span id='blog-pager-newer-link'>
+      <a expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle' style='font-weight:bold; color:white;'><img class='arrow-img-mr' src='https://1.bp.blogspot.com/-bxszus1AN20/XlwM0T_Xv7I/AAAAAAAAAI4/1AY3nGUSfaARj8r1sGyqmVfsy7QIxlQSwCLcBGAsYHQ/s320/left.png'/></a>
+      </span>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <span id='blog-pager-older-link'>
+      <a expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle' style='color:white;font-weight:bold; '><img alt='Next button mr laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-p6VEpGROdFQ/XlwM0ZK7s0I/AAAAAAAAAIw/GNoz-KCiLLcYJHlLOSgYIrXDQdDNKWb5gCLcBGAsYHQ/s320/right.png'/></a>
+      </span>
+  </b:if></div>
+
+
+    <!--/newer older home-->
+  
+
+    <b:if cond='data:mobileLinkUrl'>
+      <div class='blog-mobile-link'>
+        <a expr:href='data:mobileLinkUrl'><data:mobileLinkMsg/></a>
+      </div>
+    </b:if>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+  <b:includable id='post' var='post'>
+  <div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+    <b:if cond='data:post.firstImageUrl'>
+      <meta expr:content='data:post.firstImageUrl' itemprop='image_url'/>
+    </b:if>
+    <meta expr:content='data:blog.blogId' itemprop='blogId'/>
+    <meta expr:content='data:post.id' itemprop='postId'/>
+<div class='home-post'>
+    <a expr:name='data:post.id'/>
+    <b:if cond='data:post.title'>
+      <h3 class='post-title entry-title' itemprop='name'>
+      <b:if cond='data:post.link or (data:post.url and data:blog.url != data:post.url)'>
+        <a expr:href='data:post.link ? data:post.link : data:post.url'><data:post.title/></a>
+      <b:else/>
+        <data:post.title/>
+      </b:if>
+      </h3>
+    </b:if>
+
+    <div class='post-header'>
+    <div class='post-header-line-1'/>
+
+
+
+    </div>
+
+    <!-- Then use the post body as the schema.org description, for good G+/FB snippeting. -->
+    
+
+  <!-- home page design start -->
+
+<div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' expr:itemprop='(data:blog.metaDescription ? &quot;&quot; : &quot;description &quot;) + &quot;articleBody&quot;'>
+      
+
+<b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+    <b:if cond='data:blog.pageType != &quot;item&quot;'>
+    <b:if cond='data:post.firstImageUrl'>
+    <a expr:href='data:post.url'><img class='thumbnail-post' expr:alt='data:post.title' expr:src='data:post.firstImageUrl' expr:title='data:post.title'/></a>
+    <b:else/>
+    <a expr:href='data:post.url'><img class='thumbnail-post' expr:alt='data:post.title' expr:title='data:post.title' src='https://1.bp.blogspot.com/-YE0mDzPlmL4/XjL7CRoNcMI/AAAAAAAAADU/Ig7rplyo0T4iE_qxLUrZUPQOAIvsLDNIQCLcBGAsYHQ/s320/20200130_214823.png'/></a>
+    </b:if>
+    <div class='post-snippet'>
+    <data:post.snippet/>
+    </div>
+    <div class='rm-button-wrap'>
+      <a class='Read-more-button' expr:href='data:post.url'>Read More...</a>
+      <div class='post-date'><span><data:post.dateHeader/></span></div>
+<div class='published-time'>
+  <span class='post-timestamp'>
+        <b:if cond='data:top.showTimestamp'>
+          <data:top.timestampLabel/>
+          <b:if cond='data:post.url'>
+            <meta expr:content='data:post.url.canonical' itemprop='url'/>
+            <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'><data:post.timestamp/></abbr></a>
+          </b:if>
+        </b:if>
+      </span>
+</div>
+
+    </div>
+    </b:if>
+    </b:if>
+    
+    <b:if cond='data:blog.pageType == &quot;item&quot;'>
+    <data:post.body/>
+    </b:if>
+    <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+    <data:post.body/>
+    </b:if>
+      </div>
+
+  <!-- home page design end -->
+
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+
+
+
+<script src='demo-to-prevent-copy-paste-on-blogger_files/googleapis.js'/>
+<script type='text/javascript'>
+if (typeof document.onselectstart!=&quot;undefined&quot; ) { document.onselectstart=new Function (&quot;return false&quot; );
+} else { document.onmousedown=new Function (&quot;return false&quot; ); document.onmouseup=new Function (&quot;return true&quot; );
+}
+
+
+
+</script><div class='ads-scroll'>
+<script async='async' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'/>
+<ins class='adsbygoogle' data-ad-client='ca-pub-8671569483226902' data-ad-format='fluid' data-ad-layout-key='-gw-3+1f-3d+2z' data-ad-slot='2295787166' style='display:block'/>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+
+
+     <div class='mr-msg-footer'>
+<h3><b> Hello dear !! I am <a expr:href='data:post.authorProfileUrl' rel='author' title='data:post.author'><span itemprop='name'><data:post.author/>
+  </span></a>, Author of MR Laboratory.</b></h3>
+
+
+Welcome to our website <a href='/'>MR Laboratory</a>. 
+       I hope you have enjoyed this article/tutorial.
+       We are regularly sharing some best content on the website. <a href='/p/blogger-tutorial.html'>Blogger Tutorial</a>, 
+       <a href='/p/facebook-tricks.html'>Facebook Tricks</a>, 
+<a href='/p/online-earning.html'>Online Earning</a>, 
+<a href='/p/computer-tricks.html'>Computer Tricks</a>, 
+<a href='/p/youtube-marketing.html'>Youtube Marketing</a>, 
+<a href='/p/google-adsense-tutorial.html'>Google Adsense Tutorial</a>, 
+<a href='/p/bangla-tutorial.html'>Bangla Tutorial</a>, 
+<a href='/p/ethical-hacking.html'>Ethical Hacking</a>, 
+<a href='/p/web-developing.html'>Web Developing</a>, 
+<a href='/p/digital-marketing.html'>Digital marketing</a>, 
+<a href='/p/motivational-speech.html'>Motivational Speech</a>, 
+<a href='/p/educational-article.html'>Educational Article</a>,<a href='/p/seo-tutorial.html'>SEO Tutorial</a>,<a href='/p/video-editing.html'>Video Editing</a>,<a href='/p/photo-editing.html'>Photo Editing</a>, and all kind of Internet Technology tricks are shared on our website. We have <b style='color:red;'><span id='Stats1_totalPosts'/></b> articles and <b style='color:red;'><span id='Stats1_totalComments'/></b> comments.
+       Read more <a href='/p/about.html'>About MR Laboratory. </a>
+
+You can also write to our website if you wish. 
+
+       Join Our Community for writing on our website . <a href='/p/signup.html'>Signup</a> and <a href='https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.mrlaboratory.blog&amp;ddl=1&amp;pcampaignid=web_ddl_1' target='_blank'>Download</a> Our android app. Stay with us...<br/>
+
+<a class='mr-post-footer' href='#recent-post'>Recent Post-</a>
+<a class='mr-post-footer' href='#mr-search'>Search-</a>
+       <a class='mr-post-footer' href='#comment-box'>-Comment Box</a><br/>
+
+     
+       <br/>
+
+<b:loop values='data:post.labels' var='label'>
+            <a expr:href='data:label.url' rel='tag'>Visit to get more posts about (<data:label.name/>) Related Post.</a><b:if cond='not data:label.isLast'><br/></b:if>
+       </b:loop><br/>
+   
+
+  
+
+       
+        
+
+
+
+</div>
+
+
+<div class='author1'>
+       <h6 class='mrlab-postn'> <a expr:href='data:post.link ? data:post.link : data:post.url'><data:post.title/></a></h6>
+
+<div class='author2'>
+
+ The post is published <br/><data:post.dateHeader/><br/>&#169; Copyright 2020 <a href='/'>MR Laboratory</a><br/>
+          
+            <a expr:href='data:label.url' rel='url'><data:label.name/></a>
+
+<name> Writer
+<a expr:href='data:post.authorProfileUrl' rel='Author' target='_blank' title='Author of MR Laboratory'><span itemprop='name'><data:post.author/>
+  </span></a>
+  </name><br/><name>
+  
+</name></div>
+
+<div class='author3'>
+<a expr:href='data:post.authorProfileUrl' rel='Author' target='_blank' title='Author of MR Laboratory'> <img alt='data:label.name author of mr laboratory' expr:src='data:post.authorPhoto.url' itemprop='image' width='50px'/></a>
+
+</div>
+
+
+
+  </div>
+
+        <div itemprop='description'><data:post.authorAboutMe/>
+
+</div>   
+
+  <br/>
+
+<!--releted post mr -->
+<script type='text/javascript'>
+//<![CDATA[
+var relatedTitles = new Array();
+var relatedUrls = new Array();
+var relatedpSummary = new Array();
+var relatedThumb = new Array();
+var relatedTitlesNum = 0;
+var relatedPostsNum = 4; // number of entries to be shown
+var relatedmaxnum = 75; // the number of characters of summary
+
+var relatednoimage = "https://1.bp.blogspot.com/-M50aa1f022k/XjMRJvavalI/AAAAAAAAADg/MNbugNS1ZpouPpr906IRfJMrYpXJAq5MgCLcBGAsYHQ/s320/icon.png"; // default picture for entries with no image
+function readpostlabels(e){for(var t,r,l,a=0;a<e.feed.entry.length&&(t=e.feed.entry[a],a!=e.feed.entry.length);a++){relatedTitles[relatedTitlesNum]=t.title.$t,l="","content"in t?l=t.content.$t:"summary"in t&&(l=t.summary.$t),relatedpSummary[relatedTitlesNum]=removetags(l,relatedmaxnum),r="media$thumbnail"in t?t.media$thumbnail.url:relatednoimage,relatedThumb[relatedTitlesNum]=r;for(var d=0;d<t.link.length;d++)if("alternate"==t.link[d].rel){relatedUrls[relatedTitlesNum]=t.link[d].href;break}relatedTitlesNum++}}function showrelated(){for(var e=new Array(0),t=new Array(0),r=new Array(0),l=new Array(0),a=0;a<relatedUrls.length;a++)contains(e,relatedUrls[a])||(e.length+=1,e[e.length-1]=relatedUrls[a],t.length+=1,t[t.length-1]=relatedTitles[a],r.length+=1,r[r.length-1]=relatedpSummary[a],l.length+=1,l[l.length-1]=relatedThumb[a]);relatedTitles=t,relatedUrls=e,relatedpSummary=r,relatedThumb=l;for(var a=0;a<relatedTitles.length;a++){var d=Math.floor((relatedTitles.length-1)*Math.random()),n=relatedTitles[a],s=relatedUrls[a],m=relatedpSummary[a],i=relatedThumb[a];relatedTitles[a]=relatedTitles[d],relatedUrls[a]=relatedUrls[d],relatedpSummary[a]=relatedpSummary[d],relatedThumb[a]=relatedThumb[d],relatedTitles[d]=n,relatedUrls[d]=s,relatedpSummary[d]=m,relatedThumb[d]=i}for(var u,h=0,o=Math.floor((relatedTitles.length-1)*Math.random()),g=o,f=document.URL;h<relatedPostsNum&&(relatedUrls[o]==f||(u="<div class='relatedsumposts'>",u+="<a href='"+relatedUrls[o]+"' title='"+relatedTitles[o]+"'><img alt='"+relatedTitles[o]+"' alt='"+relatedTitles[o]+"' src='"+relatedThumb[o]+"' /></a>",u+="<h6><a href='"+relatedUrls[o]+"' target='_self'>"+relatedTitles[o]+"</a></h6>",u+="<p>"+relatedpSummary[o]+" ... </p>",u+="</div>",document.write(u),h++,h!=relatedPostsNum))&&(o<relatedTitles.length-1?o++:o=0,o!=g););}function removetags(e,t){for(var r=e.split("<"),l=0;l<r.length;l++)-1!=r[l].indexOf(">")&&(r[l]=r[l].substring(r[l].indexOf(">")+1,r[l].length));return r=r.join(""),r=r.substring(0,t-1)}function contains(e,t){for(var r=0;r<e.length;r++)if(e[r]==t)return!0;return!1}
+//]]>
+</script>
+
+
+<!--/releted post mr -->
+
+
+
+
+<div class='bg-share-buttons' id='social-share-buttons'>
+
+<center>
+  <p>
+
+আম&#2494;দ&#2503;র ওয়&#2503;বস&#2494;ইট এ ন&#2495;য়ম অন&#2497;য&#2494;য়&#2496; সঠ&#2495;ক প&#2507;স&#2509;ট কর&#2503; প&#2507;স&#2509;ট প&#2509;রত&#2495; ৫/১০ ট&#2494;ক&#2494; আয় করত&#2503; প&#2494;রব&#2503;ন &#2404; আপন&#2495; যদ&#2495; ক&#2494;জ করত&#2503; চ&#2494;ন য&#2507;গ&#2494;য&#2507;গ কর&#2497;ন &#2404; 
+    <br/><a href='https://www.facebook.com/mdmijanurrahaman.mr'>fb.com/mdmijanurrahaman.mr</a>
+    <br/> admin@mrlaboratory.com
+  </p><br/>
+Don&#39;t be selfish... Share this article with your friends :)<br/>
+
+
+<div class='addthis_inline_share_toolbox'/>
+<script src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e8376dc31dcee17' type='text/javascript'/>
+
+
+</center></div>
+
+
+
+
+<!--copy link box -->
+
+  <!--/copy link box -->
+
+
+
+
+
+
+
+
+
+
+
+<!--next prev post mr -->
+
+
+<!--/next prev post mr -->
+
+<div class='releted1'> <p class='releted2'>Related post</p>
+
+<!-- Related Posts with Thumbnails Code Start-->
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<b:loop values='data:post.labels' var='label'>
+<b:if cond='data:label.isLast != &quot;true&quot;'>
+</b:if>
+<script expr:src='&quot;/feeds/posts/default/-/&quot; + data:label.name + &quot;?alt=json-in-script&amp;callback=readpostlabels&amp;max-results=50&quot;' type='text/javascript'/>
+</b:loop>
+  <div class='post-footer-line post-footer-line-4'>
+ 
+<div id='relatedpostssum'>
+      <script type='text/javascript'>showrelated();</script>
+    </div>
+    <div style='clear:both;'/>
+  </div>
+</b:if>
+<!-- Related Posts with Thumbnails Code End-->
+
+  </div>
+  <p id='comment-box'> </p>       
+</b:if>
+
+
+      <div style='clear: both;'/> <!-- clear for photos floats -->
+    </div>
+
+    <b:if cond='data:post.hasJumpLink'>
+      <div class='jump-link'>
+        <a expr:href='data:post.url + &quot;#more&quot;' expr:title='data:post.title'><data:post.jumpText/></a>
+      </div>
+    </b:if>
+
+    <div class='post-footer'>
+    <div class='post-footer-line post-footer-line-1'>
+
+
+    
+      <br/>
+
+      <span class='post-icons'>
+        <!-- email post links -->
+        <b:if cond='data:post.emailPostUrl'>
+          <span class='item-action'>
+          <a expr:href='data:post.emailPostUrl' expr:title='data:top.emailPostMsg'>
+            <img alt='email icon' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+          </a>
+          </span>
+        </b:if>
+
+        <!-- quickedit pencil -->
+        <b:include data='post' name='postQuickEdit'/>
+      </span>
+
+      <!-- share buttons -->
+      <div class='post-share-buttons goog-inline-block'>
+        <b:include cond='data:post.sharePostUrl' data='post' name='shareButtons'/>
+      </div>
+
+      </div>
+
+    
+
+      <div class='post-footer-line post-footer-line-3'>
+      <span class='post-location'>
+        <b:if cond='data:top.showLocation and data:post.location'>
+          <data:postLocationLabel/>
+          <a expr:href='data:post.location.mapsUrl' target='_blank'><data:post.location.name/></a>
+        </b:if>
+      </span>
+      </div>
+      <b:if cond='data:post.authorAboutMe'>
+        <div class='author-profile' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+          <b:if cond='data:post.authorPhoto.url'>
+            <img alt='author of mr laboratory' expr:src='data:post.authorPhoto.url' itemprop='image' width='50px'/>
+          </b:if>
+          <div>
+            <a class='g-profile' expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' title='author profile'>
+              <span itemprop='name'><data:post.author/></span>
+            </a>
+          </div>
+          <span itemprop='description'><data:post.authorAboutMe/></span>
+        </div>
+      </b:if>
+    </div>
+  </div>
+</b:includable>
+  <b:includable id='postQuickEdit' var='post'>
+  <b:if cond='data:post.editUrl'>
+    <span expr:class='&quot;item-control &quot; + data:post.adminClass'>
+      <a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'>
+        <img alt='edit icon' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+      </a>
+    </span>
+  </b:if>
+</b:includable>
+  <b:includable id='shareButtons' var='post'>
+  <b:if cond='data:top.showEmailButton'><a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &quot;&amp;target=email&quot;' expr:title='data:top.emailThisMsg' target='_blank'><span class='share-button-link-text'><data:top.emailThisMsg/></span></a></b:if><b:if cond='data:top.showBlogThisButton'><a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &quot;&amp;target=blog&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' expr:title='data:top.blogThisMsg' target='_blank'><span class='share-button-link-text'><data:top.blogThisMsg/></span></a></b:if><b:if cond='data:top.showTwitterButton'><a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &quot;&amp;target=twitter&quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToTwitterMsg/></span></a></b:if><b:if cond='data:top.showFacebookButton'><a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &quot;&amp;target=facebook&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToFacebookMsg/></span></a></b:if><b:if cond='data:top.showPinterestButton'><a class='goog-inline-block share-button sb-pinterest' expr:href='data:post.sharePostUrl + &quot;&amp;target=pinterest&quot;' expr:title='data:top.shareToPinterestMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToPinterestMsg/></span></a></b:if><b:if cond='data:top.showPlusOne'><div class='goog-inline-block google-plus-share-container'><data:post.googlePlusShareTag/></div></b:if>
+</b:includable>
+  <b:includable id='status-message'>
+  <b:if cond='data:navMessage'>
+ 
+
+
+
+   
+  
+
+  
+ 
+
+
+
+  </b:if>
+</b:includable>
+  <b:includable id='threaded-comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' scrolling='no' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' scrolling='no' src='' width='100%'/>
+    </b:if>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+  <b:includable id='threaded_comment_js' var='post'>
+  <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+
+  <script type='text/javascript'>
+    (function() {
+      var items = <data:post.commentJso/>;
+      var msgs = <data:post.commentMsgs/>;
+      var config = <data:post.commentConfig/>;
+
+// <![CDATA[
+      var cursor = null;
+      if (items && items.length > 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        var text = (entry &&
+                    ((entry.content && entry.content.$t) ||
+                     (entry.summary && entry.summary.$t))) ||
+            '';
+        if (entry && entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '<span class="deleted-comment">' + text + '</span>';
+            }
+          }
+        }
+        return text;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data && data.feed && data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author && entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid && pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&v=2&orderby=published&reverse=false&max-results=50';
+          if (cursor) {
+            url += '&published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length < 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              && comment.author.name == config.authorName
+              && comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox && (commentId !== replyParent)) {
+          replybox.src = '';
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog && window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog && window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]>
+  </script>
+</b:includable>
+  <b:includable id='threaded_comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <h4><data:post.commentLabelFull/>:</h4>
+
+    <div class='comments-content'>
+      <b:include cond='data:post.embedCommentForm' data='post' name='threaded_comment_js'/>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+
+
+
+    <p class='comment-footer'>
+<div class='comment-custom-msg'>
+      <p>Give your valuable feedback about this post </p></div>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threaded-comment-form'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+      <b:include cond='data:post.showBacklinks' data='post' name='backlinks'/>
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+  </div>
+</b:includable>
+</b:widget>
+<b:widget id='PopularPosts1' locked='false' title='Top 5 post in this Month' type='PopularPosts'>
+  <b:widget-settings>
+    <b:widget-setting name='numItemsToShow'>5</b:widget-setting>
+    <b:widget-setting name='showThumbnails'>false</b:widget-setting>
+    <b:widget-setting name='showSnippets'>true</b:widget-setting>
+    <b:widget-setting name='timeRange'>LAST_MONTH</b:widget-setting>
+  </b:widget-settings>
+  <b:includable id='main'>
+  <b:if cond='data:title != &quot;&quot;'><h2><data:title/></h2></b:if>
+  <div class='widget-content popular-posts'>
+    <ul>
+      <b:loop values='data:posts' var='post'>
+      <li>
+        <b:if cond='!data:showThumbnails'>
+          <b:if cond='!data:showSnippets'>
+            <!-- (1) No snippet/thumbnail -->
+            <a expr:href='data:post.href'><data:post.title/></a>
+          <b:else/>
+            <!-- (2) Show only snippets -->
+            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
+            <div class='item-snippet'><data:post.snippet/></div>
+          </b:if>
+        <b:else/>
+          <!-- (3) Show only thumbnails or (4) Snippets and thumbnails. -->
+          <div expr:class='data:showSnippets ? &quot;item-content&quot; : &quot;item-thumbnail-only&quot;'>
+            <b:if cond='data:post.featuredImage.isResizable or data:post.thumbnail'>
+              <div class='item-thumbnail'>
+                <a expr:href='data:post.href' target='_blank'>
+                  <b:with value='data:post.featuredImage.isResizable                                  ? resizeImage(data:post.featuredImage, 72, &quot;1:1&quot;)                                  : data:post.thumbnail' var='image'>
+                    <img alt='' border='0' expr:src='data:image'/>
+                  </b:with>
+                </a>
+              </div>
+            </b:if>
+            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
+            <b:if cond='data:showSnippets'>
+              <div class='item-snippet'><data:post.snippet/></div>
+            </b:if>
+          </div>
+          <div style='clear: both;'/>
+        </b:if>
+      </li>
+      </b:loop>
+    </ul>
+    <b:include name='quickedit'/>
+  </div>
+</b:includable>
+</b:widget>
+<b:widget id='PopularPosts2' locked='false' title='Most Populer Post' type='PopularPosts'>
+  <b:widget-settings>
+    <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
+    <b:widget-setting name='showThumbnails'>false</b:widget-setting>
+    <b:widget-setting name='showSnippets'>true</b:widget-setting>
+    <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
+  </b:widget-settings>
+  <b:includable id='main'>
+  <b:if cond='data:title != &quot;&quot;'><h2><data:title/></h2></b:if>
+  <div class='widget-content popular-posts'>
+    <ul>
+      <b:loop values='data:posts' var='post'>
+      <li>
+        <b:if cond='!data:showThumbnails'>
+          <b:if cond='!data:showSnippets'>
+            <!-- (1) No snippet/thumbnail -->
+            <a expr:href='data:post.href'><data:post.title/></a>
+          <b:else/>
+            <!-- (2) Show only snippets -->
+            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
+            <div class='item-snippet'><data:post.snippet/></div>
+          </b:if>
+        <b:else/>
+          <!-- (3) Show only thumbnails or (4) Snippets and thumbnails. -->
+          <div expr:class='data:showSnippets ? &quot;item-content&quot; : &quot;item-thumbnail-only&quot;'>
+            <b:if cond='data:post.featuredImage.isResizable or data:post.thumbnail'>
+              <div class='item-thumbnail'>
+                <a expr:href='data:post.href' target='_blank'>
+                  <b:with value='data:post.featuredImage.isResizable                                  ? resizeImage(data:post.featuredImage, 72, &quot;1:1&quot;)                                  : data:post.thumbnail' var='image'>
+                    <img alt='' border='0' expr:src='data:image'/>
+                  </b:with>
+                </a>
+              </div>
+            </b:if>
+            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
+            <b:if cond='data:showSnippets'>
+              <div class='item-snippet'><data:post.snippet/></div>
+            </b:if>
+          </div>
+          <div style='clear: both;'/>
+        </b:if>
+      </li>
+      </b:loop>
+    </ul>
+    <b:include name='quickedit'/>
+  </div>
+</b:includable>
+</b:widget>
+</b:section> 			 
+			        
+     
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+               </div></div><br/>
+<div class='aside' id='js9'>
+<a class='custom-button' href='https://result.mrlaboratory.info/' style='color:white;font-weight:bold;' target='_blank' title='Board Result'> Board ResultE</a>
+<a class='custom-button' href='/p/somoy-tv-live.html' style='color:white;font-weight:bold;' target='_blank'>SOMOY TV LIVE</a>
+  <p><span expr:class='&quot;counter-wrapper &quot; + (data:showGraphicalCounter ? &quot;graph-counter-wrapper&quot; : &quot;text-counter-wrapper&quot;)' expr:id='data:widget.instanceId + &quot;_totalCount&quot;'>
+      </span></p>
+
+<a class='custom-button' href='https://www.mrlaboratory.info/p/signup.html' style='color:white;font-weight:bold;' target='_blank'>Do you want to post to this blog?</a>
+
+
+<a class='custom-button' href='https://www.worldometers.info/coronavirus/ ' style='color:white;font-weight:bold;' target='_blank'>Coronavirus Cases</a>
+
+
+<div class='more-menu'>
+<ul class='menu-ul'>
+
+
+
+  <li><a href='/p/Signin.html' style='color:white; font-weight:bold;'>Signin</a></li>
+  <li><a href='/p/signup.html' style='color:white;font-weight:bold;'>Signup</a></li>
+  <li><a href='/p/dashboard.html' style='color:white;font-weight:bold;'>Dashboard</a></li>
+
+  <li><a href='/p/faq.html' style='color:white;font-weight:bold;'>FAQ</a></li>
+<li><a href='/p/privacy-policy-this-privacy-policy.html' style='color:white; font-weight:bold;'>Privacy Policy</a></li>
+  <li><a href='/p/sitemap.html' style='color:white;font-weight:bold;'>Sitemap</a></li>
+<li><a href='/p/visitor-feedback-list.html' style='color:white; font-weight:bold;'>Visitor feedback list</a></li>
+<li><a href='https://www.messenger.com/t/1231097853635264/' style='color:white;font-weight:bold;' target='_blank'>Messenger Group</a></li>
+ <li><a href='https://www.facebook.com/groups/mrlaboratory' style='color:white;font-weight:bold;' target='_blank'>Public Group</a></li>
+<li><a href='https://www.youtube.com/mrlaboratorypro' style='color:white; font-weight:bold;' target='_blank'>Youtube Channel</a></li>
+  <li><a href='https://www.facebook.com/mrlaboratory' style='color:white; font-weight:bold;' target='_blank'>Facebook page</a></li>
+ </ul>
+</div>
+
+
+<div class='more-menu' id='menu-hide'>
+<ul class='menu-ul'>
+<li><a href='#recent-post' style='color:white;font-weight:bold;'>Resent Post</a></li>
+<li><a href='#Label1' style='color:white;font-weight:bold;'>Category</a></li>
+<li><a href='#mr-search' style='color:white;font-weight:bold;'>Search</a></li>
+  </ul>
+</div>
+
+  
+  <b id='recent-post'/>
+
+<b:section class='sidebar' id='sidebar' preferred='yes' showaddelement='yes'>
+  <b:widget id='AdSense1' locked='false' title='' type='AdSense'>
+    <b:includable id='main'>
+  <div class='widget-content'>
+    <data:adCode/>
+    <b:include name='quickedit'/>
+  </div>
+</b:includable>
+  </b:widget>
+  <b:widget id='HTML1' locked='false' title='' type='HTML'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>&lt;link href=&quot;https://mybloggerlab.com/Scripts/recent.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;
+ &lt;script src=&quot;https://mybloggerlab.com/Scripts/json.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script type=&#39;text/javascript&#39;&gt;
+var numposts = 10;
+var showpostthumbnails = true;
+var displaymore = false;
+var displayseparator = true;
+var showcommentnum = false;
+var showpostdate = false;
+var showpostsummary = true;
+var numchars = 100;&lt;/script&gt;
+  &lt;script type=&quot;text/javascript&quot; src=&quot;/feeds/posts/default?orderby=published&amp;amp;alt=json-in-script&amp;amp;callback=labelthumbs&quot;&gt;&lt;/script&gt;</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+  </b:widget>
+  <b:widget id='Label1' locked='false' title='Labels' type='Label'>
+    <b:widget-settings>
+      <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
+      <b:widget-setting name='display'>LIST</b:widget-setting>
+      <b:widget-setting name='selectedLabelsList'>kids,mens,mobile,women</b:widget-setting>
+      <b:widget-setting name='showType'>ALL</b:widget-setting>
+      <b:widget-setting name='showFreqNumbers'>true</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2><data:title/></h2>
+  </b:if>
+  <div expr:class='&quot;widget-content &quot; + data:display + &quot;-label-widget-content&quot;'>
+    <b:if cond='data:display == &quot;list&quot;'>
+      <ul>
+        <b:loop values='data:labels' var='label'>
+          <li>
+            <b:if cond='data:blog.url == data:label.url'>
+              <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
+            <b:else/>
+              <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
+            </b:if>
+            <b:if cond='data:showFreqNumbers'>
+              <span dir='ltr'>(<data:label.count/>)</span>
+            </b:if>
+          </li>
+        </b:loop>
+      </ul>
+    <b:else/>
+      <b:loop values='data:labels' var='label'>
+        <span expr:class='&quot;label-size label-size-&quot; + data:label.cssSize'>
+          <b:if cond='data:blog.url == data:label.url'>
+            <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
+          <b:else/>
+            <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
+          </b:if>
+          <b:if cond='data:showFreqNumbers'>
+            <span class='label-count' dir='ltr'>(<data:label.count/>)</span>
+          </b:if>
+        </span>
+      </b:loop>
+    </b:if>
+    <b:include name='quickedit'/>
+  </div>
+</b:includable>
+  </b:widget>
+</b:section>
+
+
+
+<details class='more-menu'><Summary class='button1'>Populer Category</Summary>
+
+<ul class='menu-ul'>
+  <li><a href='/p/blogger-tutorial.html' style='color:white;font-weight:bold;'>Blogger Tutorial</a></li>
+  <li><a href='/p/facebook-tricks.html' style='color:white; font-weight:bold;'>Facebook Tricks</a></li>
+  <li><a href='/p/educational-article.html' style='color:white; font-weight:bold;'>Educational Article</a></li>
+<li><a href='/p/online-earning.html' style='color:white; font-weight:bold;'>Online Earning</a></li>
+  <li><a href='/p/youtube-marketing.html' style='color:white;font-weight:bold;'>Youtube Marketing</a></li>
+<li><a href='/p/google-adsense-tutorial.html' style='color:white;font-weight:bold;'>Google Adsense Tutorial</a></li>
+<li><a href='/p/android-tips.html' style='color:white;font-weight:bold;'>Android Tips</a></li>
+  <li><a href='/p/computer-tricks.html' style='color:white; font-weight:bold;'>Computer Tricks</a></li>
+<li><a href='/p/digital-marketing.html' style='color:white; font-weight:bold;'>Digital marketing</a></li>
+  <li><a href='/p/ethical-hacking.html' style='color:white;font-weight:bold;'>Ethical Hacking</a></li>
+<li><a href='/p/web-developing.html' style='color:white;font-weight:bold;'>Web Developing</a></li>
+  <li><a href='/p/motivational-speech.html' style='color:white;font-weight:bold;'>Motivational Speech</a></li>
+    <li><a href='/p/sitemap.html' style='color:white;font-weight:bold;'>Sitemap</a></li>
+<li><a href='#recent-post' style='color:white;font-weight:bold;'>Resent Post</a></li>
+
+  </ul>
+</details>
+  <p/>
+</div>
+</div>		 
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'/><table class='table'>
+
+</table>
+<div class='footer-mr' id='js8'>
+
+
+  <div class='footer-mr1'>
+
+
+
+<b:section class='main1' id='main1' showaddelement='yes'>
+  <b:widget id='Stats1' locked='false' title='Total Pageviews' type='Stats' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='showGraphicalCounter'>false</b:widget-setting>
+      <b:widget-setting name='showAnimatedCounter'>false</b:widget-setting>
+      <b:widget-setting name='showSparkline'>true</b:widget-setting>
+      <b:widget-setting name='sparklineStyle'>BLACK_TRANSPARENT</b:widget-setting>
+      <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+     <p> Total Page Views <span expr:class='&quot;counter-wrapper &quot; + (data:showGraphicalCounter ? &quot;graph-counter-wrapper&quot; : &quot;text-counter-wrapper&quot;)' expr:id='data:widget.instanceId + &quot;_totalCount&quot;'>
+      </span></p>
+</b:includable>
+  </b:widget>
+</b:section>
+
+
+
+
+
+    <p style='color:white'>&#169; Copyright 2018-20</p>
+
+<p>MR Laboratory</p>
+
+
+
+
+
+
+
+
+<ul>
+<li>
+  <a href='https://www.facebook.com/mrlaboratory' target='_blank' title='MR Laboratory Facebook Page'><img alt='MR Laboratory Facebook Page' class='arrow-img-mr' src='https://1.bp.blogspot.com/-fIOcUTVGN7c/XmFTO4iBD5I/AAAAAAAAAJ8/aWyRDSyZJjcpabBv8RdAv9kW6gKKpLLyQCLcBGAsYHQ/s320/Facebook_Logo_%25282019%2529.png' title='MR Laboratory Facebook Page'/></a></li>
+
+
+
+<li>
+  <a href='https://www.facebook.com/groups/mrlaboratory' target='_blank' title='MR Laboratory Facebook Group'><img alt='MR Laboratory Facebook Group' class='arrow-img-mr' src='https://1.bp.blogspot.com/-3vv09oVdf-c/XmG-iDcDhDI/AAAAAAAAAL4/1Lv-Or2yDI017LEQg20QreZARbwUJC_sACLcBGAsYHQ/s320/200-2006066_facebook-members-only-group-coaching-hd-png-download.png' title='MR Laboratory Facebook Groupe'/></a></li>
+
+
+<li>
+  <a href='https://www.messenger.com/t/1231097853635264' target='_blank' title='MR Laboratory Messenger Group'><img alt='MR Laboratory Messenger Group' class='arrow-img-mr' src='https://1.bp.blogspot.com/-s3VnUnY7h0A/XmG_sPT-n4I/AAAAAAAAAMA/xTLWXf3qxbM8fKu7M5bIV4_0xKfvIRh1ACLcBGAsYHQ/s320/facebook-messenger-white-logo-png-transparent.png' title='MR Laboratory Messenger Group'/></a></li>
+
+<li>
+  <a href='https://twitter.com/mrlaboratory1' target='_blank' title='MR Laboratory Twitter'><img alt='MR Laboratory Twitter' class='arrow-img-mr' src='https://1.bp.blogspot.com/-ekqOVLq48DI/XmFUmce9GZI/AAAAAAAAAKU/f_5SW3cY9a4PHFRy5M17TsGTNgoHNNkWgCLcBGAsYHQ/s320/twitter-logo-618-340x300.jpg' title='MR Laboratory Twitter'/></a></li>
+
+
+
+<li>
+  <a href='https://www.youtube.com/mrlaboratorypro' target='_blank' title='MR Laboratory Youtube Channel'><img alt='MR Laboratory Youtube Channel' class='arrow-img-mr' src='https://1.bp.blogspot.com/-Zhh-Q5adn-A/XmFU1T8sxOI/AAAAAAAAAKc/y2pBvNDai1YE6lpyD5Mip4cbxCKabi7GgCLcBGAsYHQ/s320/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo-by-vexels.png' title='MR Laboratory Youtube Channel'/></a></li>
+
+
+
+<li>
+  <a href='https://bd.linkedin.com/in/mrlaboratory' target='_blank' title='MR Laboratory Linkedin'><img alt='MR Laboratory Linkedin' class='arrow-img-mr' src='https://1.bp.blogspot.com/-2E9JPGd-DqY/XmFXKca20KI/AAAAAAAAAKw/fAGtxwgaqOEcsis8r4f2FSUbyB38rsBWQCLcBGAsYHQ/s1600/unnamed%2B%25283%2529.png' title='MR Laboratory Linkedin'/></a></li>
+
+
+<li>
+  <a href='https://mix.com/mrlaboratory' target='_blank' title='MR Laboratory Mix'><img alt='MR Laboratory Mix' class='arrow-img-mr' src='https://1.bp.blogspot.com/-4Lf8XtzQn4Q/XmFY4pLXB0I/AAAAAAAAALA/sojPK1oX3OYg3OOxNdY9jYa5mXEeVwVtQCLcBGAsYHQ/s1600/zhydqsycx6f7zdmpzfkb.png' title='MR Laboratory Mix'/></a></li>
+
+
+
+<li>
+  <a href='https://www.pinterest.com/mrlaboratory/' target='_blank' title='MR Laboratory Pinterest'><img alt='MR Laboratory Pinterest' class='arrow-img-mr' src='https://1.bp.blogspot.com/-p6oKQuai8XE/XmFZLwWU17I/AAAAAAAAALI/ukWNqKVdlqkIEf3sV3ngBrzhNoU4ZWAOQCLcBGAsYHQ/s320/unnamed%2B%25284%2529.png' title='MR Laboratory Pinterest'/></a></li>
+
+
+<li>
+  <a href='http://mrlaboratory1.tumblr.com/' target='_blank' title='MR Laboratory Tumblr'><img alt='MR Laboratory Tumblr' class='arrow-img-mr' src='https://1.bp.blogspot.com/-6yrqCQNelMY/XmFZy8u7cFI/AAAAAAAAALQ/5U4SDL0tS1kJ84hrfRpU7Up_gA73Asc6wCLcBGAsYHQ/s1600/0.png' title='MR Laboratory Tumblr'/></a></li>
+
+
+<li>
+  <a href='https://dribbble.com/mrlaboratory' target='_blank' title='MR Laboratory Dribbble'><img alt='MR Laboratory Dribbble' class='arrow-img-mr' src='https://1.bp.blogspot.com/-q0H2_kUeF2k/XmFadBBOwTI/AAAAAAAAALc/eT6cd86HGCcZ6udOYxtYWc3oKn193QBKwCLcBGAsYHQ/s320/meetup-fpo-4-39a4360a4374757fd15bf8af264ebdb656be37f4a71fd6edafeb355af13d7f63.png' title='MR Laboratory Dribbble'/></a></li>
+
+
+
+
+<li>
+  <a href='https://www.patreon.com/mrlaboratory' target='_blank' title='MR Laboratory Patreon'><img alt='MR Laboratory Patreon' class='arrow-img-mr' src='https://1.bp.blogspot.com/-f9XO43oZ__E/XmFa49UUUII/AAAAAAAAALk/okqzVOB1H4osFbfYBerpofWWQIKbnO-YgCLcBGAsYHQ/s320/patreon-image-png-2.png' title='MR Laboratory Patreon'/></a></li>
+
+
+
+
+<li>
+  <a href='http://www.folkd.com/user/mrlaboratory' target='_blank' title='MR Laboratory Folkd'><img alt='MR Laboratory Folkd' class='arrow-img-mr' src='https://1.bp.blogspot.com/-NIceUXgonHY/XmFbl8szyHI/AAAAAAAAALs/GVkzbt9l00Yt5wu7YEUDST5SzrdKSXdfACLcBGAsYHQ/s320/Folkd-logo.png' title='MR Laboratory Folkd'/></a></li>
+
+
+
+<li>
+  <a href='https://www.reddit.com/user/mrlaboratoryblog' target='_blank' title='MR Laboratory Reddit'><img alt='MR Laboratory Reddit' class='arrow-img-mr' src='https://1.bp.blogspot.com/-2rzDGlPoAqg/XmJe7GjVYyI/AAAAAAAAAMQ/b97H1uKvS84QT_Y7FN7x3mg6qKkZRC0mgCLcBGAsYHQ/s1600/raddit.png' title='MR Laboratory Reddit'/></a></li>
+
+
+<li>
+  <a href='https://www.pearltrees.com/mrlaboratory' target='_blank' title='MR Laboratory Pearltrees '><img alt='MR Laboratory Pearltrees ' class='arrow-img-mr' src='https://1.bp.blogspot.com/-7kBbscwJbVM/XmJhcCVKolI/AAAAAAAAAMc/SLCulkWgmFQTzzZY2izWSRdZhjbAfUXkACLcBGAsYHQ/s1600/0%2B%25281%2529.png' title='MR Laboratory Pearltrees '/></a></li>
+
+
+<li>
+  <a href='https://dzone.com/users/4283299/mrlaboratory.html' target='_blank' title='MR Laboratory DZone '><img alt='MR Laboratory DZone ' class='arrow-img-mr' src='https://1.bp.blogspot.com/-5_gct8ygkF8/XmJjp88urzI/AAAAAAAAAMo/xwVOteu1VYkEsqwK-nnfvJ_P-tI5ryBaQCLcBGAsYHQ/s320/Xqzpjyl8_400x400.jpg' title='MR Laboratory DZone '/></a></li>
+
+
+<li>
+  <a href='https://www.instapaper.com/p/mrlaboratory' target='_blank' title='MR Laboratory Instapaper '><img alt='MR Laboratory Instapaper ' class='arrow-img-mr' src='https://1.bp.blogspot.com/-VHx4OJYgimI/XmOjg95asXI/AAAAAAAAAM0/J_B3Shwffb4ZQiQsDY2evFsDlGWol50MwCLcBGAsYHQ/s320/img_426306.png' title='MR Laboratory Instapaper '/></a></li>
+
+
+
+
+
+<li>
+  <a href='https://tracky.com/~mrlaboratory' target='_blank' title='MR Laboratory Tracky '><img alt='MR Laboratory Tracky ' class='arrow-img-mr' src='https://1.bp.blogspot.com/-sMrZ4QTF_kA/XmO9jaHteeI/AAAAAAAAANE/-QSpgQcH9UotagdgcHiwTf9UF6KGLut8ACLcBGAsYHQ/s320/eag4WiFS_400x400.png' title='MR Laboratory Tracky '/></a></li>
+
+
+
+
+<li>
+  <a href='http://feeds.feedburner.com/mrlaboratory/mr' target='_blank' title='MR Laboratory Feedburner '><img alt='MR Laboratory Feedburner ' class='arrow-img-mr' src='https://1.bp.blogspot.com/-PCOdFQRmnRc/XmPBukwMmXI/AAAAAAAAANQ/Q8S51eOpsZIBSJe372u-c_yj5IBv_beCACLcBGAsYHQ/s1600/download%2B%25283%2529.jpg' title='MR Laboratory Feedburner '/></a></li>
+
+
+
+<li>
+  <a href='https://www.gweb.com/site/mrlaboratory-info/' target='_blank' title='MR Laboratory Web Search and Ranking '><img alt='MR Laboratory Web Search and Ranking ' class='arrow-img-mr' src='https://1.bp.blogspot.com/-6HDP9ocfX-E/XmPKupsNrbI/AAAAAAAAANc/G1LkQyvIUOkzzPzTyvNDQKIMiqR32GctQCLcBGAsYHQ/s1600/Gweb-logo.jpg' title='MR Laboratory Web Search and Ranking '/></a></li>
+
+
+
+
+<li>
+  <a href='http://public.sitejot.com/mrlaboratory.html' target='_blank' title='MR Laboratory sitejot'><img alt='MR Laboratory sitejot' class='arrow-img-mr' src='https://1.bp.blogspot.com/-IFrB3wOWLSQ/XmPNJQ40o6I/AAAAAAAAANo/RQrN_yCpB20Rlpsfso2h9bt-afkpE1WbgCLcBGAsYHQ/s1600/logo%2B%25281%2529.gif' title='MR Laboratory sitejot'/></a></li>
+
+
+
+
+
+<li>
+  <a href='https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.mrlaboratory.blog&amp;ddl=1&amp;pcampaignid=web_ddl_1' target='_blank' title='MR Laboratory Android App'><img alt='MR Laboratory Android App' class='arrow-img-mr' src='https://1.bp.blogspot.com/-qiz93kkgDxI/XmPkqjENy0I/AAAAAAAAAOA/S4bAmonA6XQEN8V4jNnn63f8_AIJGC6_gCLcBGAsYHQ/s320/Play_Store_logo.png' title='MR Laboratory Android App'/></a></li>
+
+
+<li>
+  <a href='https://ok.ru/mr.laboratory' target='_blank' title='MR Laboratory Ok'><img alt='MR Laboratory Ok' class='arrow-img-mr' src='https://1.bp.blogspot.com/-gRi8gxeZwwE/XmTqKwQKa8I/AAAAAAAAAOM/3LznKU-onNQvW4-Qiyxj4EniTcs4bS4pQCLcBGAsYHQ/s320/social-37-512.png' title='MR Laboratory Ok'/></a></li>
+ 
+
+
+<li>
+  <a href='https://admin.mrlaboratory.info' target='_blank' title='Admin MR Laboratory'><img alt='Admin MR Laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-hHWmVe2YLII/XmTwCVSHRrI/AAAAAAAAAOY/HUUkTlYW0iYXyJZEygUcARrViXvBvmcjgCLcBGAsYHQ/s1600/admin-png-images-7.png' title='Admin MR Laboratory'/></a></li>
+
+
+
+
+
+
+<li>
+  <a href='https://apk.mrlaboratory.info' target='_blank' title='Apps MR Laboratory'><img alt='Apps MR Laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-FiMIFxYLz0s/XmTxMiKwddI/AAAAAAAAAOo/SH9Wq3bZE40_Y_r930LfcQP8Dy3eq8WygCLcBGAsYHQ/s320/612utH5jVTL.png' title='Apps MR Laboratory'/></a></li>
+
+
+
+
+<li>
+  <a href='https://download.mrlaboratory.info/' target='_blank' title='Download MR Laboratory'><img alt='Download MR Laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-XoJg3pavGiw/XmTwCkxzwDI/AAAAAAAAAOc/uG2ovUy8fj0L8DuBTNHGv_inr_cNK8ieQCLcBGAsYHQ/s320/Downloads-icon.png' title='Download MR Laboratory'/></a></li>
+
+
+<li>
+  <a href='https://link.mrlaboratory.info/' target='_blank' title='Safe link MR Laboratory'><img alt='Safe link MR Laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-NOkLqb8l4Cs/XmTx4CNFcWI/AAAAAAAAAOw/D8h4UFscX-EBW7mCOY9DV_SFlEDIjD8-gCLcBGAsYHQ/s1600/images.png' title='Safe link MR Laboratory'/></a></li>
+
+
+
+
+<li>
+  <a href='https://result.mrlaboratory.info/' target='_blank' title='Board Result checker MR Laboratory'><img alt='Board Result checker MR Laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-O6fyd6i3NJk/XmTyNwd7TsI/AAAAAAAAAO4/LFBXz8dNaCkCZ0Huw14s8bK_7zaTx7B5ACLcBGAsYHQ/s320/result-png-3.png' title='Board Result checker MR Laboratory'/></a></li>
+
+
+
+
+
+<li>
+  <a href='https://search.mrlaboratory.info/' target='_blank' title='MR Laboratory Search Engine'><img alt='MR Laboratory Search Engine' class='arrow-img-mr' src='https://1.bp.blogspot.com/-XIMhjUho8N0/XmTzHiqer9I/AAAAAAAAAPI/gYdjv-WhoUoOjnlFcwXK0lSJwypnd5xrgCLcBGAsYHQ/s320/337-3376215_search-and-develop-products-faster-with-prospector-grey.png' title='MR Laboratory Search Engine'/></a></li>
+
+
+
+
+
+<li>
+  <a href='https://Sitemap.mrlaboratory.info/' target='_blank' title='Sitemap MR Laboratory'><img alt='Sitemap MR Laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-en6c7PWIHxU/XmTzwapB_MI/AAAAAAAAAPU/4f_po7nY6xAZM5phpgqedl5qoVJ_p42uwCLcBGAsYHQ/s1600/download%2B%25281%2529.png' title='Sitemap MR Laboratory'/></a></li>
+
+<li>
+  <a href='https://Video.mrlaboratory.info/' target='_blank' title='Video MR Laboratory'><img alt='Video MR Laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-ByAurLR4ENg/XmT0GQidsnI/AAAAAAAAAPc/gQAyPubfg5AluNvApSmAXX1MJK2soE1BgCLcBGAsYHQ/s1600/images%2B%25281%2529.jpg' title='Video MR Laboratory'/></a></li>
+
+
+
+<li>
+  <a href='https://play.google.com/store/apps/dev?id=6504321027546876229' target='_blank' title='Developer MR Laboratory'><img alt='Developer MR Laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-bTeIs9NcdC8/XmT1J4zwjkI/AAAAAAAAAPo/dxwSMpmNc44bjDoAxaJaqGet8XHM72vpACLcBGAsYHQ/s320/306-3064446_developer-developer-png.png' title='Developer MR Laboratory'/></a></li>
+
+
+<li>
+  <a href='https://adfty.biz/user/mrlaboratory/' target='_blank' title='MR Laboratory adfty'><img alt='MR Laboratory adfty' class='arrow-img-mr' src='https://1.bp.blogspot.com/-t4x5MXYNGeY/Xmsk8iOx_CI/AAAAAAAABMM/7eryCHXor_E1SugdbqswzKY8AawBEU3dACLcBGAsYHQ/s1600/download.jpg' title='MR Laboratory adfty'/></a></li>
+
+
+<li>
+  <a href='https://www.instagram.com/mrlaboratory2/' target='_blank' title='MR Laboratory Instagram'><img alt='MR Laboratory Instagram' class='arrow-img-mr' src='https://1.bp.blogspot.com/-pvAOKZOlDq8/XoISwb5bvxI/AAAAAAAAAQc/PGE34z3e0jEm8itBCE4GLUUou9K_MTJ5gCLcBGAsYHQ/s1600/download.jpg' title='MR Laboratory Instagram'/></a></li>
+
+
+
+<li>
+  <a href='https://www.Whatsapp.com/' target='_blank' title='MR Laboratory Whatsapp'><img alt='MR Laboratory Whatsapp' class='arrow-img-mr' src='https://1.bp.blogspot.com/-Ia_tfgzX4fo/XoITQ6xBTzI/AAAAAAAAAQk/VPp53e8MOO0U9V-tI05ndLeJ9g4CSNulQCLcBGAsYHQ/s320/gsmarena_001.jpg' title='MR Laboratory Whatsapp'/></a></li>
+
+
+<li>
+  <a href='https://triberr.com/mrlaboratory' target='_blank' title='MR Laboratory Triberr'><img alt='MR Laboratory Triberr' class='arrow-img-mr' src='https://1.bp.blogspot.com/-m_sOQWf_KV8/XoIaRYbkfPI/AAAAAAAAAQw/t5Afr7h7k0wsuSgWBxno-VXogXmNvuU6wCLcBGAsYHQ/s1600/0.png' title='MR Laboratory Triberr'/></a></li>
+
+
+
+
+
+<li>
+  <a href='https://growthhackers.com/members/mr_laboratory' target='_blank' title='MR Laboratory Growthhackers'><img alt='MR Laboratory Growthhackers' class='arrow-img-mr' src='https://1.bp.blogspot.com/-GAsWDG6O8hM/XoIcOtdIx4I/AAAAAAAAAQ8/CEA6jCRvLiUIV4fEwtPh4l11X-qiSfiSQCLcBGAsYHQ/s1600/0%2B%25281%2529.png' title='MR Laboratory Growthhackers'/></a></li>
+
+
+<li>
+  <a href='https://slashdot.org/~mijan+mr' target='_blank' title='MR Laboratory Slashdot'><img alt='MR Laboratory Slashdot' class='arrow-img-mr' src='https://1.bp.blogspot.com/-RHg-R6iNOvM/XoLPdTsVdeI/AAAAAAAAARI/DVEzNxqZ7UMR7G7tNfzP9nPbMft6kK_RgCLcBGAsYHQ/s320/slashdot-512.png' title='MR Laboratory Slashdot'/></a></li>
+
+<li>
+  <a href='https://alltop.com/my/mrlaboratory' target='_blank' title='MR Laboratory Alltop'><img alt='MR Laboratory Alltop' class='arrow-img-mr' src='https://1.bp.blogspot.com/-K-KTxppkHH8/XoLT8GKGSpI/AAAAAAAAARU/UqAxapHfp2oPXvYglRGGqRPuh7YzsDutwCLcBGAsYHQ/s1600/download%2B%25281%2529.jpg' title='MR Laboratory Alltop'/></a></li>
+
+<li>
+  <a href='https://www.diigo.com/profile/mrlaboratory' target='_blank' title='MR Laboratory Diigo'><img alt='MR Laboratory Diigo' class='arrow-img-mr' src='https://1.bp.blogspot.com/-m7_mduAWg8Q/XoYupwZfi1I/AAAAAAAAARg/HKXzclqvXLADbAQ-Ic5_K7EqQvgm1vMbACLcBGAsYHQ/s1600/large.png' title='MR Laboratory Diigo'/></a></li>
+
+
+<li>
+  <a href='https://awesome.top/tools/qrcode?url=https://www.mrlaboratory.info/ ' target='_blank' title='MR Laboratory Qrcode'><img alt='MR Laboratory Qrcode' class='arrow-img-mr' src='https://1.bp.blogspot.com/-7e-zTE-aW3A/XobaX7ky4JI/AAAAAAAABNk/PR2mgjoOFkUdQY683XOLXiCG4Z0tuPGjwCLcBGAsYHQ/s1600/qrcode%2B%25281%2529.png' title='MR Laboratory Qrcode'/></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </ul>
+
+
+
+</div>
+
+
+
+
+<div class='footer-mr2'>
+<address>
+ <b> <p style='color:white'>&#169; Copyright 2020<a class='a' href='https://www.mrlaboratory.info' target='_blank'> MR Laboratory</a></p>   </b>
+  <b> <p style='color:white'>Designed and Developed by <a href='https://www.facebook.com/mdmijanurrahaman.mr' target='_blank'>Md Mijanur Rahaman</a></p></b>
+ <b> <p style='color:white'>Contact Email: <a href='mailto:admin@mrlaboratory.com'>
+   admin@mrlaboratory.com</a></p></b></address>
+<a href='https://facebook.com/mdmijanurrahaman.mr' target='_blank'><img align='center' alt='Md Mijanur Rahaman' height='200' src='https://1.bp.blogspot.com/-356u7fTpqzs/XjBB8s28HsI/AAAAAAAAADE/3-02lIh8T70Ja0BLM8NeDdiscAxGXYgDQCLcBGAsYHQ/s320/mr.png' title='Md Mijanur Rahaman' width='200'/>
+</a>
+
+  <p style='color:white'>
+
+আম&#2494;দ&#2503;র ওয়&#2503;বস&#2494;ইট এ ন&#2495;য়ম অন&#2497;য&#2494;য়&#2496; সঠ&#2495;ক প&#2507;স&#2509;ট কর&#2503; প&#2507;স&#2509;ট প&#2509;রত&#2495; ৫/১০ ট&#2494;ক&#2494; আয় করত&#2503; প&#2494;রব&#2503;ন &#2404; আপন&#2495; যদ&#2495; ক&#2494;জ করত&#2503; চ&#2494;ন য&#2507;গ&#2494;য&#2507;গ কর&#2497;ন &#2404; 
+fb.com/mdmijanurrahaman.mr
+</p>
+
+</div>
+
+
+
+
+
+
+  <a href='#mr1' id='top-mr'><img alt='Page Top on mr laboratory' class='arrow-img-mr' src='https://1.bp.blogspot.com/-tXhT8Wa-WUY/XlwM1djEqbI/AAAAAAAAAI8/xckPrQbGXw0ogyK_CGTkCVLUGsgtrVbmgCLcBGAsYHQ/s320/top.png' title='Top'/></a>
+
+  
+
+
+
+
+
+
+<script>
+
+
+
+
+
+//Get the button
+var mybutton = document.getElementById(&quot;top-mr&quot;);
+
+
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+
+
+<a href='https://m.me/mrlaboratory' id='message-mr' target='_blank'><img alt='Message now' class='arrow-img-mr' src='https://1.bp.blogspot.com/-owdwGiml0UA/XlwM0fKj8OI/AAAAAAAAAI0/y868w0AsgaMLVbjaw3jGomUNLND2AK_mQCLcBGAsYHQ/s320/messenger.png' title='Message now on mr laboratory'/></a>
+
+
+
+
+</div>
+
+
+<script src='https://njrx4zqm16a9acwgfairna-on.drv.tw/www.shortner.com/shortner.js' type='text/javascript'/>
+<script src='https://njrx4zqm16a9acwgfairna-on.drv.tw/www.shortner.com/autoreplacebyfeednew.js' type='text/javascript'/>
+<script src='https://www.blogger.com/feeds/8305838770754072060/posts/default?alt=json-in-script&amp;max-results=13&amp;callback=showurl'/>
+<script type='text/javascript'>
+var setting = {
+pengecualianstatus : true,
+pengecualian : &quot;ok.ru,bdstall.com,fb.com,copyLink(),awesome.top,worldometers.info,diigo.com,alltop.com,slashdot.org,triberr.com,growthhackers.com,whatsapp.com,instagram.com,adfty.biz,dribbble.com,patreon.com,folkd.com,pearltrees,dzone.com,instapaper.com,tracky.com,feedburner.com,gweb.com,public.sitejot.com,mrlaboratory.info,youtube.com,tumblr.com,play.app.goo.gl,stumbleupon.com,blogspot.com,messenger.com,mix.com,digg.com,bufferapp.com,reddit.com,pinterest.com,linkedin.com,youtu.be,m.me,blogger.com,1.bp.blogspot.com,mrlaboratory.com,facebook.com,twitter.com,javascript:;,mailto:&quot;,
+hanyauntukstatus : false,
+hanyauntuk : &quot;mrlaboratory.com&quot;, //use ::withpath for autolink specific path exampe.com/download/::withpath
+path : &quot;#?o=&quot;
+};    
+</script>
+<script src='https://cdn.statically.io/gh/riedayme/bloggercode/master/js/autoreplacebyfeednew.js' type='text/javascript'/>
+<script src='https://www.blogger.com/feeds/1389047771043738626/posts/default?alt=json-in-script&amp;max-results=13&amp;callback=showurl'/>
+
+
+<script async='async' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js'/>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: &quot;40be9662-86cf-45b6-b8c0-0a90445522ef&quot;,
+    });
+  });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async='async' src='https://www.googletagmanager.com/gtag/js?id=UA-135831524-2'/>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;UA-135831524-2&#39;);
+
+</script>
+<script>
+
+//<![CDATA[
+!function(e,t,a){function n(){c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"),o(),r()}function r(){for(var e=0;e<d.length;e++)d[e].alpha<=0?(t.body.removeChild(d[e].el),d.splice(e,1)):(d[e].y--,d[e].scale+=.004,d[e].alpha-=.013,d[e].el.style.cssText="left:"+d[e].x+"px;top:"+d[e].y+"px;opacity:"+d[e].alpha+";transform:scale("+d[e].scale+","+d[e].scale+") rotate(45deg);background:"+d[e].color+";z-index:99999");requestAnimationFrame(r)}function o(){var t="function"==typeof e.onclick&&e.onclick;e.onclick=function(e){t&&t(),i(e)}}function i(e){var a=t.createElement("div");a.className="heart",d.push({el:a,x:e.clientX-5,y:e.clientY-5,scale:1,alpha:1,color:s()}),t.body.appendChild(a)}function c(e){var a=t.createElement("style");a.type="text/css";try{a.appendChild(t.createTextNode(e))}catch(t){a.styleSheet.cssText=e}t.getElementsByTagName("head")[0].appendChild(a)}function s(){return"rgb("+~~(255*Math.random())+","+~~(255*Math.random())+","+~~(255*Math.random())+")"}var d=[];e.requestAnimationFrame=function(){return e.requestAnimationFrame||e.webkitRequestAnimationFrame||e.mozRequestAnimationFrame||e.oRequestAnimationFrame||e.msRequestAnimationFrame||function(e){setTimeout(e,1e3/60)}}(),n()}(window,document);
+//]]>
+
+</script>
+
+<script type='text/javascript'>
+//<![CDATA[
+function totalPosts(json){document.getElementById('Stats1_totalPosts').innerHTML=json.feed.openSearch$totalResults.$t};function totalComments(json){document.getElementById('Stats1_totalComments').innerHTML=json.feed.openSearch$totalResults.$t};document.write('<script type=\"text/javascript\" src=\"/feeds/posts/default?alt=json-in-script&max-results=0&callback=totalPosts\"><\/script><script type=\"text/javascript\" src=\"/feeds/comments/default?alt=json-in-script&max-results=0&callback=totalComments\"><\/script>');
+//]]>
+</script>
+<script src='https://njrx4zqm16a9acwgfairna-on.drv.tw/www.wordlinker.com/word.js'/>
+</body>
+          </html>
